@@ -1,0 +1,5441 @@
+{
+  "name": "sea_otter",
+  "url": "https://en.wikipedia.org/wiki/Sea_otter",
+  "content": {
+    "externalLinks": [
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Featured_articles",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marine_otter",
+        "text": "marine otter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eurasian_otter",
+        "text": "Eurasian otter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_otter_(disambiguation)",
+        "text": "Sea otter (disambiguation)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sea_Otter_(Enhydra_lutris)_(25169790524)_crop.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Conservation_status",
+        "text": "Conservation status"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Endangered_species_(IUCN_status)",
+        "text": "Endangered"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/IUCN_Red_List",
+        "text": "IUCN 3.1"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/CITES",
+        "text": "CITES"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/CITES",
+        "text": "CITES"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Taxonomy_(biology)",
+        "text": "Scientific classification"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Taxonomy/Enhydra",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Animal",
+        "text": "Animalia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Chordate",
+        "text": "Chordata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mammal",
+        "text": "Mammalia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Carnivora",
+        "text": "Carnivora"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mustelidae",
+        "text": "Mustelidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otter",
+        "text": "Lutrinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Enhydra",
+        "text": "Enhydra"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Binomial_nomenclature",
+        "text": "Binomial name"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Carl_Linnaeus",
+        "text": "Linnaeus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/10th_edition_of_Systema_Naturae",
+        "text": "1758"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Synonym_(taxonomy)",
+        "text": "Synonyms"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marine_mammal",
+        "text": "marine mammal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pacific_Ocean",
+        "text": "North Pacific Ocean"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otter",
+        "text": "otters"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mustelidae",
+        "text": "weasel family"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fur",
+        "text": "fur"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Forage",
+        "text": "forage"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_urchin",
+        "text": "sea urchins"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mollusk",
+        "text": "mollusks"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crustacean",
+        "text": "crustaceans"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fish",
+        "text": "fish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tool_use_by_sea_otters",
+        "text": "use of rocks"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Keystone_species",
+        "text": "keystone species"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_urchin",
+        "text": "sea urchin"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kelp_forest",
+        "text": "kelp forest"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ecosystem",
+        "text": "ecosystems"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_otter_conservation",
+        "text": "sea otter conservation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marine_conservation",
+        "text": "marine conservation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aleutian_Islands",
+        "text": "Aleutian Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/California",
+        "text": "California"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Endangered_species",
+        "text": "endangered species"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Giant_otter",
+        "text": "giant otter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mustelidae",
+        "text": "Mustelidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otter",
+        "text": "otter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Weasel",
+        "text": "weasels"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Badger",
+        "text": "badgers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mink",
+        "text": "minks"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Shelters_built_or_used_by_animals",
+        "text": "dens"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Burrow",
+        "text": "burrows"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anal_scent_glands",
+        "text": "anal scent glands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Earless_seal",
+        "text": "earless seals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Molecular_phylogeny",
+        "text": "Genetic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Extant_taxon",
+        "text": "extant"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Speckle-throated_otter",
+        "text": "speckle-throated otter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/European_otter",
+        "text": "European otter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_clawless_otter",
+        "text": "African clawless otter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oriental_small-clawed_otter",
+        "text": "oriental small-clawed otter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fossil",
+        "text": "Fossil"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Enhydra_macrodonta",
+        "text": "Enhydra macrodonta"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pleistocene",
+        "text": "Pleistocene"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/East_Anglia",
+        "text": "East Anglia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hokkaid%C5%8D",
+        "text": "Hokkaidō"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aleutian_Islands",
+        "text": "Aleutian Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Alaska",
+        "text": "Alaska"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cetacea",
+        "text": "cetaceans"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sirenian",
+        "text": "sirenians"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pinniped",
+        "text": "pinnipeds"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/DNA_sequencing",
+        "text": "sequenced"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Speciation",
+        "text": "evolutionary divergence"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lutrinae",
+        "text": "Lutrinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pteronura",
+        "text": "Pteronura"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lontra",
+        "text": "Lontra"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hydrictis",
+        "text": "Hydrictis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lutra",
+        "text": "Lutra"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_clawless_otter",
+        "text": "Aonyx"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Amblonyx",
+        "text": "Amblonyx"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Smooth-coated_otter",
+        "text": "Lutrogale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cladogram",
+        "text": "Cladogram"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Georg_Steller",
+        "text": "Georg Steller"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Carl_Linnaeus",
+        "text": "Carl Linnaeus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/10th_edition_of_Systema_Naturae",
+        "text": "10th edition of Systema Naturae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ancient_Greek",
+        "text": "Ancient Greek"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Latin",
+        "text": "Latin"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Beaver",
+        "text": "beaver"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nominate_subspecies",
+        "text": "nominate"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kuril_Islands",
+        "text": "Kuril Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Commander_Islands",
+        "text": "Commander Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aleutian_Islands",
+        "text": "Aleutian Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jaw#Mammals",
+        "text": "mandibles"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rostrum_(anatomy)",
+        "text": "rostrums"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Seaotterrocks.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Seaotterrocks.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Enhydra_lutris_skull_-_MUSE.JPG",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Enhydra_lutris_skull_-_MUSE.JPG",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marine_mammal",
+        "text": "marine mammal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Baculum",
+        "text": "baculum"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Blubber",
+        "text": "blubber"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fur",
+        "text": "fur"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Guard_hairs",
+        "text": "guard hairs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Molt",
+        "text": "molting"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Skeleton",
+        "text": "skeleton"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pelage",
+        "text": "pelage"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Webbed_foot",
+        "text": "webbed"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Osteosclerosis",
+        "text": "osteosclerosis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aquatic_ecosystem",
+        "text": "aquatic environment"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Convergent_evolution",
+        "text": "convergent evolution"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Buoyancy",
+        "text": "buoyancy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:MSU_V2P1b_-_Enhydra_lutris_skull.png",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:MSU_V2P1b_-_Enhydra_lutris_skull.png",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Buoyant",
+        "text": "buoyant"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lung_capacity",
+        "text": "lung capacity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vibrissa",
+        "text": "whiskers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Touch",
+        "text": "touch"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Olfaction",
+        "text": "smell"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Visual_perception",
+        "text": "sight"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hearing_(sense)",
+        "text": "hearing"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Teeth",
+        "text": "teeth"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Molar_(tooth)",
+        "text": "molars"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pinniped",
+        "text": "Seals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Carnivore",
+        "text": "carnivores"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Incisor",
+        "text": "incisor"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dentition",
+        "text": "dental formula"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Metabolic_rate",
+        "text": "metabolic rate"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Terrestrial_animal",
+        "text": "terrestrial"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kidney",
+        "text": "kidneys"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sea_otter_with_sea_urchin.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sea_otter_with_sea_urchin.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vibrissa",
+        "text": "vibrissae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Purple_sea_urchin",
+        "text": "purple sea urchin"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Touch",
+        "text": "touch"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Diurnality",
+        "text": "diurnal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lice",
+        "text": "lice"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Physiology_of_underwater_diving",
+        "text": "Physiology of underwater diving"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_floor",
+        "text": "sea floor"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Snail",
+        "text": "snails"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Clam",
+        "text": "clams"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fish",
+        "text": "fish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mussel",
+        "text": "mussels"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Incisor",
+        "text": "incisor"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tool_use_by_sea_otters",
+        "text": "use of rocks"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mammal",
+        "text": "mammal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abalone",
+        "text": "abalone"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sea_otters_holding_hands,_cropped.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sea_otters_holding_hands,_cropped.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vancouver_Aquarium",
+        "text": "Vancouver Aquarium"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kelp",
+        "text": "kelp"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gull",
+        "text": "gull"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Social_animal",
+        "text": "social animals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sea_otter_with_injured_nose.JPG",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sea_otter_with_injured_nose.JPG",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Polygynous",
+        "text": "polygynous"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gestation",
+        "text": "Gestation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Delayed_implantation",
+        "text": "delayed implantation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sea_otter_nursing02.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sea_otter_nursing02.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Georg_Steller",
+        "text": "Georg Steller"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lactation",
+        "text": "Nursing"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nipple",
+        "text": "nipples"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mustelid",
+        "text": "mustelids"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Starfish",
+        "text": "starfish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Seattle_Aquarium",
+        "text": "Seattle Aquarium"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Teeth",
+        "text": "teeth"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kelp_forest",
+        "text": "kelp forests"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Barrier_reefs",
+        "text": "barrier reefs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Substrate_(marine_biology)",
+        "text": "substrates"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Drift_ice",
+        "text": "drift ice"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Land-fast_ice",
+        "text": "land-fast ice"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Baja_California_Peninsula",
+        "text": "Baja California Peninsula"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hokkaido",
+        "text": "Hokkaido"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Punta_Eugenia",
+        "text": "Punta Eugenia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Baja_California_Sur",
+        "text": "Baja California's"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mexico",
+        "text": "Mexico"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Threatened_species",
+        "text": "threatened"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kuril_Islands",
+        "text": "Kuril Group"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kamchatka_Peninsula",
+        "text": "Kamchatka"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aleutian_Islands",
+        "text": "Aleutian Chain"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hokkaido",
+        "text": "Hokkaido"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Erimo,_Hokkaido",
+        "text": "Erimo, Hokkaido"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Russia",
+        "text": "Russia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kuril_Islands",
+        "text": "Kuril Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kamchatka",
+        "text": "Kamchatka"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Commander_Islands",
+        "text": "Commander Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Carrying_capacity",
+        "text": "carrying capacity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kyuquot,_British_Columbia",
+        "text": "Kyuquot"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cape_Scott_Provincial_Park",
+        "text": "Cape Scott"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Broughton_Archipelago",
+        "text": "Broughton Archipelago"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Clayoquot_Sound",
+        "text": "Clayoquot Sound"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tofino",
+        "text": "Tofino"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aristazabal_Island",
+        "text": "Aristazabal Island"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Milbanke_Sound",
+        "text": "Milbanke Sound"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Calvert_Island_(British_Columbia)",
+        "text": "Calvert Island"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Alaska",
+        "text": "Alaska"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aleutian_Islands",
+        "text": "Aleutian Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Orca",
+        "text": "orca"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Prince_William_Sound",
+        "text": "Prince William Sound"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill",
+        "text": "Exxon Valdez oil spill"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Amchitka_Island",
+        "text": "Amchitka Island"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Washington_(state)",
+        "text": "Washington"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/La_Push",
+        "text": "La Push"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Point_Grenville",
+        "text": "Point Grenville"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cape_Flattery",
+        "text": "Cape Flattery"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca",
+        "text": "Strait of Juan de Fuca"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/San_Juan_Islands",
+        "text": "San Juan Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Puget_Sound",
+        "text": "Puget Sound"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/North_American_river_otter",
+        "text": "North American river otters"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Amchitka_Island",
+        "text": "Amchitka Island"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Depoe_Bay",
+        "text": "Depoe Bay"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oregon_Coast",
+        "text": "Oregon Coast"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:CalifCentralCoast.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:CalifCentralCoast.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bixby_Creek_Bridge",
+        "text": "Bixby Creek Bridge"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Big_Sur",
+        "text": "Big Sur"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pigeon_Point_Lighthouse",
+        "text": "Pigeon Point"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/San_Mateo_County",
+        "text": "San Mateo County"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Santa_Barbara_County",
+        "text": "Santa Barbara County"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/San_Francisco_Bay",
+        "text": "San Francisco Bay"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Russian-American_Company",
+        "text": "Russian-American Company"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aleut_people",
+        "text": "Aleuts"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/San_Jose,_California",
+        "text": "San Jose"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/San_Mateo,_California",
+        "text": "San Mateo"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/San_Bruno,_California",
+        "text": "San Bruno"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Angel_Island_(California)",
+        "text": "Angel Island"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fort_Ross",
+        "text": "Fort Ross"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ivan_Kuskov",
+        "text": "Ivan Kuskov"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rancho_Punta_de_Quentin",
+        "text": "Rancho Punta de Quentin"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/John_B._R._Cooper",
+        "text": "John B. R. Cooper"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Juan_Bautista_Alvarado",
+        "text": "Juan Bautista Alvarado"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Corte_Madera_Creek_(Marin_County,_California)",
+        "text": "Corte Madera Creek"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/San_Nicolas_Island",
+        "text": "San Nicolas Island"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/San_Miguel_Island",
+        "text": "San Miguel Island"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Point_Conception",
+        "text": "Point Conception"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/White_abalone",
+        "text": "white abalone"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Big_Sur",
+        "text": "Big Sur"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tunitas_Creek",
+        "text": "Tunitas Creek"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pigeon_Point_Lighthouse",
+        "text": "Pigeon Point"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gaviota_Coast",
+        "text": "Gaviota Coast"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Coal_Oil_Point",
+        "text": "Coal Oil Point"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gaviota_State_Park",
+        "text": "Gaviota State Park"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Microcystin",
+        "text": "microcystin"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cyanobacteria",
+        "text": "cyanobacteria"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Microcystis",
+        "text": "Microcystis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Great_white_shark",
+        "text": "Great white sharks"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/U.S._Fish_and_Wildlife_Service",
+        "text": "U.S. Fish and Wildlife Service"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pigeon_Point_Lighthouse",
+        "text": "Pigeon Point"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/United_States_Geological_Survey",
+        "text": "United States Geological Survey"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Endangered_Species_Act",
+        "text": "Endangered Species Act"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marine_Mammal_Protection_Act",
+        "text": "Marine Mammal Protection Act"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Baja_California_Peninsula",
+        "text": "Baja California Peninsula"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Punta_Eugenia",
+        "text": "Punta Eugenia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Vizca%C3%ADno_Bay",
+        "text": "Sebastián Vizcaíno Bay"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/San_Benito_Island",
+        "text": "San Benito Island"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cedros_Island",
+        "text": "Cedros Island"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Isla_Natividad",
+        "text": "Isla Natividad"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/San_Nicolas_Island",
+        "text": "San Nicolas Island"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Metabolism",
+        "text": "metabolism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Foraging",
+        "text": "foraging"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Benthos",
+        "text": "benthic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_urchin",
+        "text": "sea urchins"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Urechis_unicinctus",
+        "text": "fat innkeeper worms"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bivalve",
+        "text": "bivalves"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Clam",
+        "text": "clams"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mussel",
+        "text": "mussels"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abalone",
+        "text": "abalone"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mollusk",
+        "text": "mollusks"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crustacean",
+        "text": "crustaceans"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Snail",
+        "text": "snails"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Limpet",
+        "text": "limpets"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crab",
+        "text": "crabs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Giant_octopus",
+        "text": "giant octopuses"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pismo_clam",
+        "text": "Pismo clams"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Amchitka_Island",
+        "text": "Amchitka Island"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Carrying_capacity",
+        "text": "carrying capacity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hemilepidotus_hemilepidotus",
+        "text": "Hemilepidotus hemilepidotus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tetraodontidae",
+        "text": "Tetraodontidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Starfish",
+        "text": "starfish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kelp",
+        "text": "kelp"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Kelp-forest-Monterey.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Kelp-forest-Monterey.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kelp_forest",
+        "text": "kelp forests"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Keystone_species",
+        "text": "keystone species"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Benthic",
+        "text": "benthic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_urchin",
+        "text": "sea urchins"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kelp_forest",
+        "text": "kelp forests"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cascade_effect_(ecology)",
+        "text": "cascade effects"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Urchin_barren",
+        "text": "urchin barrens"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Big_Sur",
+        "text": "Big Sur"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ecosystem",
+        "text": "ecosystems"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Estuaries",
+        "text": "estuaries"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mussel",
+        "text": "mussel"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Orca",
+        "text": "orcas"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_lion",
+        "text": "sea lions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bald_eagle",
+        "text": "bald eagles"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Coyote",
+        "text": "coyotes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Urban_runoff",
+        "text": "Urban runoff"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+        "text": "Toxoplasma gondii"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Obligate_parasite",
+        "text": "obligate parasite"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sarcocystis_neurona",
+        "text": "Sarcocystis neurona"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/H1N1_flu_virus",
+        "text": "H1N1 flu virus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sea_otter_hunters_1896.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sea_otter_hunters_1896.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aleut_people",
+        "text": "Aleut"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Unalaska",
+        "text": "Unalaska"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kayak",
+        "text": "kayak"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Indigenous_peoples",
+        "text": "indigenous peoples"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Maritime_Fur_Trade",
+        "text": "Maritime Fur Trade"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kyakhta",
+        "text": "Kyakhta"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vitus_Bering",
+        "text": "Vitus Bering"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bering_Island",
+        "text": "Bering Island"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Commander_Islands",
+        "text": "Commander Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Georg_Steller",
+        "text": "Georg Steller"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sable",
+        "text": "sable"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:London_Sea_Otter_pelt_sales_1871-1910.svg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:London_Sea_Otter_pelt_sales_1871-1910.svg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aleutian_Islands",
+        "text": "Aleutian Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aleut_people",
+        "text": "Aleuts"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Disputed_statement",
+        "text": "disputed"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Talk:Sea_otter",
+        "text": "discuss"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Alaska",
+        "text": "Alaska"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tsar_Paul_I",
+        "text": "Tsar Paul I"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Russian-American_Company",
+        "text": "Russian-American Company"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aleksander_I",
+        "text": "Aleksander I"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/California",
+        "text": "California"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas",
+        "text": "Native Americans"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Captain_James_Cook",
+        "text": "Captain James Cook"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vancouver_Island",
+        "text": "Vancouver Island"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pacific_Northwest",
+        "text": "Pacific Northwest"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fort_Ross,_California",
+        "text": "Fort Ross"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Alaska_purchase",
+        "text": "sold Alaska"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Local_extinction",
+        "text": "extirpated"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/North_Pacific_Fur_Seal_Convention_of_1911",
+        "text": "Treaty for the Preservation and Protection of Fur Seals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Extinction",
+        "text": "extinct"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_otter_conservation",
+        "text": "Sea otter conservation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:OilSheenFromValdezSpill.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:OilSheenFromValdezSpill.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill",
+        "text": "Exxon Valdez oil spill"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Prince_William_Sound",
+        "text": "Prince William Sound"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/IUCN",
+        "text": "IUCN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Endangered_species",
+        "text": "endangered species"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oil_pollution",
+        "text": "oil pollution"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Orca",
+        "text": "orcas"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Poaching",
+        "text": "poaching"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Indigenous_peoples",
+        "text": "indigenous peoples"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/History_of_the_Soviet_Union_(1985%E2%80%931991)",
+        "text": "collapse of the Soviet Union"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oil_spill",
+        "text": "oil spills"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hypothermia",
+        "text": "hypothermia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Liver",
+        "text": "liver"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kidney",
+        "text": "kidneys"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lung",
+        "text": "lungs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill",
+        "text": "Exxon Valdez oil spill"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Prince_William_Sound",
+        "text": "Prince William Sound"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Necropsies",
+        "text": "Necropsies"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+        "text": "Toxoplasma gondii"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Acanthocephala",
+        "text": "acanthocephalan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sea_otter_pair2.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sea_otter_pair2.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Washington_(state)",
+        "text": "Washington"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Olympic_Coast_National_Marine_Sanctuary",
+        "text": "Olympic Coast National Marine Sanctuary"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marine_protected_area",
+        "text": "protected areas"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Protected_areas_of_the_United_States",
+        "text": "United States"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Protected_areas_in_Russia",
+        "text": "Russia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Protected_areas_of_Canada",
+        "text": "Canada"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Monterey_Bay_National_Marine_Sanctuary",
+        "text": "Monterey Bay National Marine Sanctuary"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Olympic_Coast_National_Marine_Sanctuary",
+        "text": "Olympic Coast National Marine Sanctuary"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abalone",
+        "text": "abalone"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Clam",
+        "text": "clams"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crab",
+        "text": "crabs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Shellfish",
+        "text": "shellfish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Overfishing",
+        "text": "overfishing"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Seismic",
+        "text": "seismic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Local_extinction",
+        "text": "extirpation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kelp",
+        "text": "kelp"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Red_sea_urchin",
+        "text": "red sea urchins"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Red_king_crab",
+        "text": "red king crab"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Invasive_species",
+        "text": "invasive range"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Barents_Sea",
+        "text": "Barents Sea"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lutra_lutra",
+        "text": "Lutra lutra"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tourist_attraction",
+        "text": "tourist attractions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:AleutKalan1.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:AleutKalan2.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aleut_people",
+        "text": "Aleut"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Amulet",
+        "text": "amulet"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Peter_the_Great_Museum_of_Anthropology_and_Ethnography",
+        "text": "Peter the Great Museum of Anthropology and Ethnography"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/St._Petersburg",
+        "text": "St. Petersburg"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ainu_people",
+        "text": "Ainu"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Koryaks",
+        "text": "Koryaks"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Itelmen",
+        "text": "Itelmen"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aleut_people",
+        "text": "Aleut"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Haida_people",
+        "text": "Haida"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Haida_Gwaii",
+        "text": "Haida Gwaii"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Pacific_Northwest_Coast",
+        "text": "tribes on the Pacific coast of North America"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Animist",
+        "text": "animist"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nuu-chah-nulth_people",
+        "text": "Nuu-chah-nulth"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/First_Nations_in_Canada",
+        "text": "First Nations"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Potlatch",
+        "text": "potlatches"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Baculum",
+        "text": "baculum"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ainu_people",
+        "text": "Ainu"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yukar",
+        "text": "epic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kutune_Shirka",
+        "text": "Kutune Shirka"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anthropomorphism",
+        "text": "anthropomorphism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Captivity_(animal)",
+        "text": "captivity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Public_aquarium",
+        "text": "public aquariums"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Zoo",
+        "text": "zoos"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Seattle_Aquarium",
+        "text": "Seattle Aquarium"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/YouTube",
+        "text": "YouTube"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vancouver_Aquarium",
+        "text": "Vancouver Aquarium"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill",
+        "text": "Exxon Valdez oil spill"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/California_Fur_Rush",
+        "text": "California Fur Rush"
+      },
+      {
+        "href": "https://www.iucnredlist.org/species/7750/21939518",
+        "text": "\"Enhydra lutris\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/IUCN_Red_List",
+        "text": "IUCN Red List of Threatened Species"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.2305%2FIUCN.UK.2015-2.RLTS.T7750A21939518.en",
+        "text": "10.2305/IUCN.UK.2015-2.RLTS.T7750A21939518.en"
+      },
+      {
+        "href": "https://cites.org/eng/app/appendices.php",
+        "text": "\"Appendices | CITES\""
+      },
+      {
+        "href": "https://www.nps.gov/glba/blogs/a-keystone-species-the-sea-otter-colonizes-glacier-bay.htm",
+        "text": "\"A Keystone Species, the Sea Otter, Colonizes Glacier Bay\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/James_A._Estes",
+        "text": "Estes, James A."
+      },
+      {
+        "href": "https://www.fort.usgs.gov/Products/Publications/pub_abstract.asp?PubID=2183",
+        "text": "The sea otter (Enhydra lutris): behavior, ecology, and natural history"
+      },
+      {
+        "href": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Enhydra_lutris.html",
+        "text": "\"Enhydra lutris\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1111%2Fj.1469-7998.1998.tb00172.x",
+        "text": "10.1111/j.1469-7998.1998.tb00172.x"
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC2276185",
+        "text": "\"Multigene phylogeny of the Mustelidae: resolving relationships, tempo and biogeographic history of a mammalian adaptive radiation\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1186%2F1741-7007-6-10",
+        "text": "10.1186/1741-7007-6-10"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMC_(identifier)",
+        "text": "PMC"
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC2276185",
+        "text": "2276185"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/18275614",
+        "text": "18275614"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/CiteSeerX_(identifier)",
+        "text": "CiteSeerX"
+      },
+      {
+        "href": "//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.738.4492",
+        "text": "10.1.1.738.4492"
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC5748697",
+        "text": "\"The Genome of the Northern Sea Otter (Enhydra lutris kenyoni)\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.3390%2Fgenes8120379",
+        "text": "10.3390/genes8120379"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMC_(identifier)",
+        "text": "PMC"
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC5748697",
+        "text": "5748697"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/29232880",
+        "text": "29232880"
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC2276185",
+        "text": "\"Multigene phylogeny of the Mustelidae: Resolving relationships, tempo and biogeographic history of a mammalian adaptive radiation\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1186%2F1741-7007-6-10",
+        "text": "10.1186/1741-7007-6-10"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMC_(identifier)",
+        "text": "PMC"
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC2276185",
+        "text": "2276185"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/18275614",
+        "text": "18275614"
+      },
+      {
+        "href": "http://www.molekularesystematik.uni-oldenburg.de/download/Publications/CarnivoreST.pdf",
+        "text": "\"Building large trees by combining phylogenetic information: a complete phylogeny of the extant Carnivora (Mammalia)\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/CiteSeerX_(identifier)",
+        "text": "CiteSeerX"
+      },
+      {
+        "href": "//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.328.7194",
+        "text": "10.1.1.328.7194"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1017%2FS0006323199005307",
+        "text": "10.1017/S0006323199005307"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/10396181",
+        "text": "10396181"
+      },
+      {
+        "href": "https://web.archive.org/web/20180710185113/https://wdfw.wa.gov/publications/01965/wdfw01965.pdf",
+        "text": "\"Washington State Periodic Status Review for the Sea Otter\""
+      },
+      {
+        "href": "http://wdfw.wa.gov/wlm/diversty/soc/recovery/seaotter/index.htm",
+        "text": "WDFW seaotter"
+      },
+      {
+        "href": "https://wdfw.wa.gov/publications/01965/wdfw01965.pdf",
+        "text": "the original"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Henry_Liddell",
+        "text": "Liddell, Henry George"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Robert_Scott_(philologist)",
+        "text": "Robert Scott"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/A_Greek-English_Lexicon",
+        "text": "A Greek-English Lexicon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oxford_University_Press",
+        "text": "Oxford University Press"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-19-910207-5",
+        "text": "978-0-19-910207-5"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+        "text": "OCLC"
+      },
+      {
+        "href": "//www.worldcat.org/oclc/17396377",
+        "text": "17396377"
+      },
+      {
+        "href": "http://faculty.washington.edu/ssantana/wordpress/wp-content/uploads/2013/02/Campbell-Santana_2017_Sea-otters_Small-file.pdf",
+        "text": "\"Do differences in skull morphology and bite performance explain dietary specialization in sea otters?\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1093%2Fjmammal%2Fgyx091",
+        "text": "10.1093/jmammal/gyx091"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:91055290",
+        "text": "91055290"
+      },
+      {
+        "href": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?&amp;article=1090&amp;context=usdeptcommercepub",
+        "text": "\"Geographic Variation in Sea Otters, Enhydra lutris\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.2307%2F1381977",
+        "text": "10.2307/1381977"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/JSTOR_(identifier)",
+        "text": "JSTOR"
+      },
+      {
+        "href": "//www.jstor.org/stable/1381977",
+        "text": "1381977"
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC4674116",
+        "text": "\"Divergent Skull Morphology Supports Two Trophic Specializations in Otters (Lutrinae)\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bibcode_(identifier)",
+        "text": "Bibcode"
+      },
+      {
+        "href": "https://ui.adsabs.harvard.edu/abs/2015PLoSO..1043236T",
+        "text": "2015PLoSO..1043236T"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1371%2Fjournal.pone.0143236",
+        "text": "10.1371/journal.pone.0143236"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMC_(identifier)",
+        "text": "PMC"
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC4674116",
+        "text": "4674116"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/26649575",
+        "text": "26649575"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/0-276-42012-8",
+        "text": "0-276-42012-8"
+      },
+      {
+        "href": "https://marinebio.org/species/sea-otters/enhydra-lutris/",
+        "text": "\"Sea Otters, Enhydra lutris\""
+      },
+      {
+        "href": "https://archive.org/details/mammalsofsov212001gept",
+        "text": "Mammals of the Soviet Union. Vol. II, part 1b, Carnivores (Mustelidae and Procyonidae)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-90-04-08876-4",
+        "text": "978-90-04-08876-4"
+      },
+      {
+        "href": "https://journals.biologists.com/jeb/article/210/11/1960/16829/Diving-and-foraging-energetics-of-the-smallest",
+        "text": "\"Diving and foraging energetics of the smallest marine mammal, the sea otter (Enhydra lutris)\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1242%2Fjeb.02767",
+        "text": "10.1242/jeb.02767"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/17515421",
+        "text": "17515421"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:21944946",
+        "text": "21944946"
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC3615000",
+        "text": "\"Bone Inner Structure Suggests Increasing Aquatic Adaptations in Desmostylia (Mammalia, Afrotheria)\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bibcode_(identifier)",
+        "text": "Bibcode"
+      },
+      {
+        "href": "https://ui.adsabs.harvard.edu/abs/2013PLoSO...859146H",
+        "text": "2013PLoSO...859146H"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1371%2Fjournal.pone.0059146",
+        "text": "10.1371/journal.pone.0059146"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMC_(identifier)",
+        "text": "PMC"
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC3615000",
+        "text": "3615000"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/23565143",
+        "text": "23565143"
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC8449357",
+        "text": "\"Comparative genomics provides insights into the aquatic adaptations of mammals\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bibcode_(identifier)",
+        "text": "Bibcode"
+      },
+      {
+        "href": "https://ui.adsabs.harvard.edu/abs/2021PNAS..11806080Y",
+        "text": "2021PNAS..11806080Y"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1073%2Fpnas.2106080118",
+        "text": "10.1073/pnas.2106080118"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+        "text": "ISSN"
+      },
+      {
+        "href": "//www.worldcat.org/issn/0027-8424",
+        "text": "0027-8424"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMC_(identifier)",
+        "text": "PMC"
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC8449357",
+        "text": "8449357"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/34503999",
+        "text": "34503999"
+      },
+      {
+        "href": "https://doi.org/10.1111%2Fj.1095-8312.2012.01992.x",
+        "text": "\"Morphological and thermal properties of mammalian insulation: the evolutionary transition to blubber in pinnipeds\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1111%2Fj.1095-8312.2012.01992.x",
+        "text": "10.1111/j.1095-8312.2012.01992.x"
+      },
+      {
+        "href": "https://www.researchgate.net/publication/234015183",
+        "text": "\"Fur versus Blubber: A comparative look at marine mammal insulation and its metabolic and behavioral consequences\""
+      },
+      {
+        "href": "https://pubmed.ncbi.nlm.nih.gov/29514890/",
+        "text": "\"Function and evolution of specialized endogenous lipids in toothed whales\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1242%2Fjeb.161471",
+        "text": "10.1242/jeb.161471"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+        "text": "ISSN"
+      },
+      {
+        "href": "//www.worldcat.org/issn/1477-9145",
+        "text": "1477-9145"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/29514890",
+        "text": "29514890"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:3789040",
+        "text": "3789040"
+      },
+      {
+        "href": "https://web.archive.org/web/20081208185746/http://ecos.fws.gov/speciesProfile/SpeciesReport.do?spcode=A0A7",
+        "text": "\"USFWS Species Profile: Southern sea otter (Enhydra lutris nereis)\""
+      },
+      {
+        "href": "https://ecos.fws.gov/speciesProfile/SpeciesReport.do?spcode=A0A7",
+        "text": "the original"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1016%2Fj.jcpa.2012.11.243",
+        "text": "10.1016/j.jcpa.2012.11.243"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/23348015",
+        "text": "23348015"
+      },
+      {
+        "href": "https://web.archive.org/web/20080216083821/http://wlapwww.gov.bc.ca/wld/documents/otter.pdf",
+        "text": "\"Sea Otter\""
+      },
+      {
+        "href": "http://wlapwww.gov.bc.ca/wld/documents/otter.pdf",
+        "text": "the original"
+      },
+      {
+        "href": "http://jeb.biologists.org/cgi/pmidlookup?view=long&amp;pmid=11441026",
+        "text": "\"Osmoregulation in marine mammals\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1242%2Fjeb.204.11.1831",
+        "text": "10.1242/jeb.204.11.1831"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/11441026",
+        "text": "11441026"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Public_Broadcasting_Service",
+        "text": "PBS"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-931397-14-1",
+        "text": "978-0-931397-14-1"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+        "text": "OCLC"
+      },
+      {
+        "href": "//www.worldcat.org/oclc/13760343",
+        "text": "13760343"
+      },
+      {
+        "href": "http://www.bbc.co.uk/nature/wildfacts/factfiles/600.shtml",
+        "text": "\"Sea otter\""
+      },
+      {
+        "href": "http://www.vanaqua.org/education/aquafacts/seaotters.html",
+        "text": "\"Sea otter AquaFact file\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vancouver_Aquarium_Marine_Science_Centre",
+        "text": "Vancouver Aquarium Marine Science Centre"
+      },
+      {
+        "href": "https://thetyee.ca/News/2007/10/04/SeaOtter1/",
+        "text": "\"Too Many Sea Otters?\""
+      },
+      {
+        "href": "https://archive.org/details/walkersmammalsof01nowa/page/1141",
+        "text": "Walker's Mammals of the World Volume II"
+      },
+      {
+        "href": "https://archive.org/details/walkersmammalsof01nowa/page/1141",
+        "text": "1141–1143"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-8018-3970-2",
+        "text": "978-0-8018-3970-2"
+      },
+      {
+        "href": "https://books.google.com/books?id=mlU37uRbvmcC&amp;pg=PA196",
+        "text": "The California sea otter trade, 1784–1848"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-520-02806-7",
+        "text": "978-0-520-02806-7"
+      },
+      {
+        "href": "http://2mn.org/downloads/bookshelf/mm3_book/254-307.pdf",
+        "text": "Population dynamics and present status of sea otters (Enhydra lutris) of the Kuril Islands and southern Kamchatka."
+      },
+      {
+        "href": "https://web.archive.org/web/20080206201842/http://alaska.fws.gov/fisheries/mmm/seaotters/recovery.htm",
+        "text": "\"Sea Otters&#160;– Southwest Alaska Sea Otter Recovery Team (SWAKSORT)\""
+      },
+      {
+        "href": "https://alaska.fws.gov/fisheries/mmm/seaotters/recovery.htm",
+        "text": "the original"
+      },
+      {
+        "href": "https://web.archive.org/web/20060917054125/http://www.vanaqua.org/aquanew/fullnews.php?id=1692",
+        "text": "\"British Columbia: Sea Otter Research Expedition\""
+      },
+      {
+        "href": "http://www.vanaqua.org/aquanew/fullnews.php?id=1692",
+        "text": "the original"
+      },
+      {
+        "href": "https://web.archive.org/web/20110108012300/http://www.mailtribune.com/apps/pbcs.dll/article?AID=%2F20070615%2FLIFE%2F706150317",
+        "text": "\"California otters rebound, but remain at risk\""
+      },
+      {
+        "href": "http://www.mailtribune.com/apps/pbcs.dll/article?AID=/20070615/LIFE/706150317",
+        "text": "the original"
+      },
+      {
+        "href": "https://waves-vagues.dfo-mpo.gc.ca/Library/365073.pdf",
+        "text": "\"Trends in the Abundance and Distribution of Sea Otters (Enhydra lutris) in British Columbia Updated with 2013 Survey Results\""
+      },
+      {
+        "href": "http://www.oceanlink.info/seaotterstewardship/history1.html",
+        "text": "\"Sea Otter Recovery on Vancouver Island's West Coast\""
+      },
+      {
+        "href": "http://www.sararegistry.gc.ca/species/speciesDetails_e.cfm?sid=149",
+        "text": "Sea Otter"
+      },
+      {
+        "href": "http://www.dfo-mpo.gc.ca/science/publications/article/2010/11-25-10-eng.html",
+        "text": "Sea Otters"
+      },
+      {
+        "href": "https://doi.org/10.1038%2F445703a",
+        "text": "\"Food chains: killer in the kelp\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bibcode_(identifier)",
+        "text": "Bibcode"
+      },
+      {
+        "href": "https://ui.adsabs.harvard.edu/abs/2007Natur.445..703S",
+        "text": "2007Natur.445..703S"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1038%2F445703a",
+        "text": "10.1038/445703a"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/17301765",
+        "text": "17301765"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:4421362",
+        "text": "4421362"
+      },
+      {
+        "href": "https://wayback.archive-it.org/all/20170525111401/http://ir.library.oregonstate.edu/jspui/bitstream/1957/6719/1/Jameson_Ronald_J_ocr.pdf",
+        "text": "An Evaluation of Attempts to Reestablish the Sea Otter in Oregon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+        "text": "OCLC"
+      },
+      {
+        "href": "//www.worldcat.org/oclc/9653603",
+        "text": "9653603"
+      },
+      {
+        "href": "http://ir.library.oregonstate.edu/jspui/bitstream/1957/6719/1/Jameson_Ronald_J_ocr.pdf",
+        "text": "the original"
+      },
+      {
+        "href": "https://web.archive.org/web/20101230175203/http://www.ecotrust.org/nativeprograms/Seaottersstay.04.quinn.pdf",
+        "text": "\"Sea otter's stay raises scientists' hopes\""
+      },
+      {
+        "href": "http://www.ecotrust.org/nativeprograms/Seaottersstay.04.quinn.pdf",
+        "text": "the original"
+      },
+      {
+        "href": "http://blog.oregonlive.com/terryrichard/2009/02/rare_sea_otter_confirmed_at_de.html#more",
+        "text": "\"Rare sea otter confirmed at Depoe Bay\""
+      },
+      {
+        "href": "http://www.honeywilliams.com/adler_bigsurca11.pdf",
+        "text": "\"Redwood Sanctuary\""
+      },
+      {
+        "href": "http://www.caviews.com/bixby.htm",
+        "text": "\"Bixby Creek Bridge on Highway One from the Pat Hathaway Photo Collection\""
+      },
+      {
+        "href": "https://www.werc.usgs.gov/otters/ca-surveyspr2007.htm",
+        "text": "\"Spring 2007 Mainland California Sea Otter Survey Results\""
+      },
+      {
+        "href": "https://www.mercurynews.com/2020/12/11/are-sea-otters-taking-a-bite-out-of-californias-dungeness-crab-season",
+        "text": "\"Are sea otters taking a bite out of California's Dungeness crab season?\""
+      },
+      {
+        "href": "http://www.nrdc.org/greengate/wildlife/otterf.asp",
+        "text": "Southern Sea Otters"
+      },
+      {
+        "href": "https://web.archive.org/web/20111130140619/http://www.nrdc.org/greengate/wildlife/otterf.asp",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wayback_Machine",
+        "text": "Wayback Machine"
+      },
+      {
+        "href": "https://archive.org/details/bub_gb_HQQTAAAAYAAJ",
+        "text": "History of Alaska: 1730–1885"
+      },
+      {
+        "href": "https://archive.org/details/bub_gb_HQQTAAAAYAAJ/page/n521",
+        "text": "482"
+      },
+      {
+        "href": "http://www.sonoma.edu/asc/projects/pointreyes/overview4.pdf",
+        "text": "Archeological Research Issues for the Point Reyes National Seashore – Golden Gate National Recreation Area"
+      },
+      {
+        "href": "https://www.amazon.com/Ross-California-People-Places-History/dp/B006CARGSQ",
+        "text": "Ross, California – The people, the places, the history"
+      },
+      {
+        "href": "https://www.sciencedaily.com/releases/2008/01/080114173901.htm",
+        "text": "\"Sea Otter Show Striking Variability in Diets And Feeding Strategies\""
+      },
+      {
+        "href": "https://www.fws.gov/pacific/news/2005/seaotterNR.pdf",
+        "text": "\"U.S. Fish and Wildlife Service Proposes that Southern Sea Otter Translocation Program be Terminated\""
+      },
+      {
+        "href": "https://www.fws.gov/cno/press/release.cfm?rid=253",
+        "text": "\"Service Proposes to End Southern Sea Otter Translocation Program\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.5066%2FF7FJ2DWJ",
+        "text": "10.5066/F7FJ2DWJ"
+      },
+      {
+        "href": "https://web.archive.org/web/20131021013356/http://abclocal.go.com/kabc/story?section=news%2Fbizarre&amp;id=8458657",
+        "text": "\"Rare sighting of sea otter off Laguna Beach\""
+      },
+      {
+        "href": "http://abclocal.go.com/kabc/story?section=news%2Fbizarre&amp;id=8458657",
+        "text": "the original"
+      },
+      {
+        "href": "http://www.cnn.com/NATURE/9903/24/otters.enn/",
+        "text": "\"Balance sought in sea otter conflict\""
+      },
+      {
+        "href": "http://www.latimes.com/news/local/la-me-otters-20121220,0,6969607.story",
+        "text": "\"U.S. will let otters roam along Southern California coastline\""
+      },
+      {
+        "href": "https://www.usgs.gov/newsroom/article.asp?ID=3687",
+        "text": "\"California's Sea Otter Numbers Continue Slow Climb\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/USGS",
+        "text": "USGS"
+      },
+      {
+        "href": "https://archive.usgs.gov/archive/sites/soundwaves.usgs.gov/2010/12/index.html",
+        "text": "\"California Sea Otter Numbers Drop Again\""
+      },
+      {
+        "href": "https://www.werc.usgs.gov/ProjectSubWebPage.aspx?SubWebPageID=16&amp;ProjectID=91&amp;List=SubWebPages&amp;Web=Project_91&amp;Title=Sea%20Otter%20Studies%20at%20WERC",
+        "text": "\"Spring 2010 Mainland California Sea Otter Survey Results\""
+      },
+      {
+        "href": "http://www.latimes.com/news/local/la-me-sea-otters-20100923,0,3239917.story",
+        "text": "\"Another deadly challenge for the sea otter\""
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC2936937",
+        "text": "\"Evidence for a Novel Marine Harmful Algal Bloom: Cyanotoxin (Microcystin) Transfer from Land to Sea Otters\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bibcode_(identifier)",
+        "text": "Bibcode"
+      },
+      {
+        "href": "https://ui.adsabs.harvard.edu/abs/2010PLoSO...512576M",
+        "text": "2010PLoSO...512576M"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1371%2Fjournal.pone.0012576",
+        "text": "10.1371/journal.pone.0012576"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMC_(identifier)",
+        "text": "PMC"
+      },
+      {
+        "href": "//www.ncbi.nlm.nih.gov/pmc/articles/PMC2936937",
+        "text": "2936937"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/20844747",
+        "text": "20844747"
+      },
+      {
+        "href": "http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/01/22/BA4K1HCS7T.DTL",
+        "text": "\"Sea otter deaths jump in 2010\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1016%2Fj.marpolbul.2012.03.002",
+        "text": "10.1016/j.marpolbul.2012.03.002"
+      },
+      {
+        "href": "https://www.werc.usgs.gov/ProjectSubWebPage.aspx?SubWebPageID=24&amp;ProjectID=91",
+        "text": "Spring 2014 California Sea Otter Census Results"
+      },
+      {
+        "href": "https://www.fws.gov/ventura/endangered/species/info/sso.html",
+        "text": "\"Southern Sea Otter\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.3133%2Fds1067",
+        "text": "10.3133/ds1067"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1111%2Fj.1748-7692.1997.tb00639.x",
+        "text": "10.1111/j.1748-7692.1997.tb00639.x"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1111%2Fmms.12104",
+        "text": "10.1111/mms.12104"
+      },
+      {
+        "href": "https://www.researchgate.net/publication/225208596",
+        "text": "\"Swimming by sea otters: adaptations for low energetic cost locomotion\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1007%2FBF00616753",
+        "text": "10.1007/BF00616753"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/2724187",
+        "text": "2724187"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:1926452",
+        "text": "1926452"
+      },
+      {
+        "href": "https://theconversation.com/sea-otters-demonstrate-that-there-is-more-to-muscle-than-just-movement-it-can-also-bring-the-heat-165804",
+        "text": "\"Sea otters demonstrate that there is more to muscle than just movement – it can also bring the heat\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Conversation_(website)",
+        "text": "The Conversation"
+      },
+      {
+        "href": "https://web.archive.org/web/20110202105224/http://elkhornslough.org/sloughlife/mammals/sea_otter.htm",
+        "text": "Elkhorn Slough Mammals: Sea Otter"
+      },
+      {
+        "href": "https://www.bbc.com/future/article/20210914-how-sea-otters-help-fight-climate-change",
+        "text": "\"How sea otters can fight climate change\""
+      },
+      {
+        "href": "http://naturedocumentaries.org/7010/otters-vs-climate-change-kqedquest-2014/",
+        "text": "\"Otters vs. Climate Change – KQED/QUEST (2014)\""
+      },
+      {
+        "href": "https://web.archive.org/web/20071123064622/http://www.dfo-mpo.gc.ca/species-especes/species/species_seaOtter_e.asp",
+        "text": "\"Aquatic Species at Risk&#160;– Species Profile&#160;– Sea Otter\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fisheries_and_Oceans_Canada",
+        "text": "Fisheries and Oceans Canada"
+      },
+      {
+        "href": "http://www.dfo-mpo.gc.ca/species-especes/species/species_seaOtter_e.asp",
+        "text": "the original"
+      },
+      {
+        "href": "https://web.archive.org/web/20110709102511/http://www.defenders.org/programs_and_policy/wildlife_conservation/imperiled_species/sea_otter/publications_and_facts/faqs.php",
+        "text": "\"Sea Otter Frequently Asked Questions\""
+      },
+      {
+        "href": "http://www.defenders.org/programs_and_policy/wildlife_conservation/imperiled_species/sea_otter/publications_and_facts/faqs.php",
+        "text": "the original"
+      },
+      {
+        "href": "https://caseagrant.ucsd.edu/sites/default/files/Conrad_CZ169.pdf",
+        "text": "\"Parasite Shed in Cat Feces Kills Sea Otters – California Sea Grant\""
+      },
+      {
+        "href": "https://www.usgs.gov/newsroom/article.asp?ID=3864",
+        "text": "\"Sea Otters Can Get the Flu, Too\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/0299052338",
+        "text": "0299052338"
+      },
+      {
+        "href": "https://web.archive.org/web/20070610101614/http://www.gi.alaska.edu/ScienceForum/ASF6/605.html",
+        "text": "\"The Aleut and the Otter\""
+      },
+      {
+        "href": "http://www.gi.alaska.edu/ScienceForum/ASF6/605.html",
+        "text": "the original"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+        "text": "ISSN"
+      },
+      {
+        "href": "//www.worldcat.org/issn/1540-3386",
+        "text": "1540-3386"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-1-60643-951-7",
+        "text": "978-1-60643-951-7"
+      },
+      {
+        "href": "https://www.usatoday.com/news/nation/2007-01-31-exxon-alaska_x.htm",
+        "text": "\"Damage of Exxon Valdez endures\""
+      },
+      {
+        "href": "http://archives.cnn.com/2000/NATURE/07/06/otter.survey.enn/index.html",
+        "text": "\"Aleutian Sea Otter population falls 70% in eight years\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.7589%2F0090-3558-39.3.495",
+        "text": "10.7589/0090-3558-39.3.495"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "//pubmed.ncbi.nlm.nih.gov/14567210",
+        "text": "14567210"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:8595917",
+        "text": "8595917"
+      },
+      {
+        "href": "https://web.archive.org/web/20071225205629/http://www.magazine.noaa.gov/stories/mag72.htm",
+        "text": "\"Parasite in cats killing sea otters\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration",
+        "text": "National Oceanic and Atmospheric Administration"
+      },
+      {
+        "href": "http://www.magazine.noaa.gov/stories/mag72.htm",
+        "text": "the original"
+      },
+      {
+        "href": "http://sanctuaries.noaa.gov/protect/regulations/welcome.html",
+        "text": "\"National Marine Sanctuaries Regulations\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/NOAA",
+        "text": "NOAA"
+      },
+      {
+        "href": "https://web.archive.org/web/20080111030900/http://www.monterey.org/harbor/mbnms.html",
+        "text": "\"Monterey Bay National Marine Sanctuary\""
+      },
+      {
+        "href": "http://www.monterey.org/harbor/mbnms.html",
+        "text": "the original"
+      },
+      {
+        "href": "http://olympiccoast.noaa.gov/living/history_and_culture/history/welcome.html",
+        "text": "\"Olympic Coast National Marine Sanctuary History\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/NOAA",
+        "text": "NOAA"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ICES_Journal_of_Marine_Science",
+        "text": "ICES Journal of Marine Science"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/International_Council_for_the_Exploration_of_the_Sea",
+        "text": "International Council for the Exploration of the Sea"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oxford_University_Press",
+        "text": "OUP"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1093%2Ficesjms%2Ffsq192",
+        "text": "10.1093/icesjms/fsq192"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+        "text": "ISSN"
+      },
+      {
+        "href": "//www.worldcat.org/issn/1095-9289",
+        "text": "1095-9289"
+      },
+      {
+        "href": "https://uwo.academia.edu/PaulSzpak/Papers/1216885/Historical_Ecology_of_Late_Holocene_Sea_Otters_Enhydra_lutris_from_Northern_British_Columbia_Isotopic_and_Zooarchaeological_Perspectives",
+        "text": "\"Historical Ecology of Late Holocene Sea Otters (Enhydra lutris) from Northern British Columbia: Isotopic and Zooarchaeological Perspectives\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Journal_of_Archaeological_Science",
+        "text": "Journal of Archaeological Science"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1016%2Fj.jas.2011.12.006",
+        "text": "10.1016/j.jas.2011.12.006"
+      },
+      {
+        "href": "https://en.wikisource.org/wiki/Aino_Folk-Tales",
+        "text": "Aino Folk Tales"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.2307%2F533140",
+        "text": "10.2307/533140"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/JSTOR_(identifier)",
+        "text": "JSTOR"
+      },
+      {
+        "href": "//www.jstor.org/stable/533140",
+        "text": "533140"
+      },
+      {
+        "href": "https://web.archive.org/web/20090619040524/http://www.allbusiness.com/transportation/marine-transportation-marine-accidents/6425408-1.html",
+        "text": "\"Seattle Aquarium's Youngest Sea Otter Lootas Becomes a Mom\""
+      },
+      {
+        "href": "http://www.allbusiness.com/transportation/marine-transportation-marine-accidents/6425408-1.html",
+        "text": "the original"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=epUk3T2Kfno",
+        "text": "\"Otters holding hands\""
+      },
+      {
+        "href": "https://ghostarchive.org/varchive/youtube/20211114/epUk3T2Kfno",
+        "text": "Archived"
+      },
+      {
+        "href": "http://www.cbc.ca/news/canada/british-columbia/vancouver-sea-otters-a-hit-on-youtube-1.688725",
+        "text": "\"Vancouver sea otters a hit on YouTube\""
+      },
+      {
+        "href": "https://web.archive.org/web/20081120034407/http://www.vanaqua.org/pressroom/Nyac.html",
+        "text": "\"Vancouver Aquarium's oldest sea otter, Nyac, passes\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vancouver_Aquarium",
+        "text": "Vancouver Aquarium"
+      },
+      {
+        "href": "http://www.vanaqua.org/pressroom/Nyac.html",
+        "text": "the original"
+      },
+      {
+        "href": "http://www.aquablog.ca/2012/01/beloved-sea-otter-milo/",
+        "text": "\"Beloved sea otter Milo\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vancouver_Aquarium",
+        "text": "Vancouver Aquarium"
+      },
+      {
+        "href": "https://www.sciencedirect.com/science/article/pii/B9780128014028000044",
+        "text": "\"Challenges to Sea Otter Recovery and Conservation\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1016%2FB978-0-12-801402-8.00004-4",
+        "text": "10.1016/B978-0-12-801402-8.00004-4"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/9780128014028",
+        "text": "9780128014028"
+      },
+      {
+        "href": "https://www.sciencedirect.com/science/article/pii/B9780128014028000044",
+        "text": "\"Challenges to Sea Otter Recovery and Conservation\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1016%2FB978-0-12-801402-8.00004-4",
+        "text": "10.1016/B978-0-12-801402-8.00004-4"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/9780128014028",
+        "text": "9780128014028"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-486-21346-0",
+        "text": "978-0-486-21346-0"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-1-55591-123-2",
+        "text": "978-1-55591-123-2"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+        "text": "OCLC"
+      },
+      {
+        "href": "//www.worldcat.org/oclc/25747993",
+        "text": "25747993"
+      },
+      {
+        "href": "https://archive.org/details/seaottersnatural0000nick",
+        "text": "Sea Otters, a Natural History and Guide"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-87701-567-3",
+        "text": "978-0-87701-567-3"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+        "text": "OCLC"
+      },
+      {
+        "href": "//www.worldcat.org/oclc/18414247",
+        "text": "18414247"
+      },
+      {
+        "href": "https://archive.org/details/seaotterendanger00alvi",
+        "text": "The Sea Otter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-1-56294-418-6",
+        "text": "978-1-56294-418-6"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+        "text": "OCLC"
+      },
+      {
+        "href": "//www.worldcat.org/oclc/30436543",
+        "text": "30436543"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+        "text": "ISSN"
+      },
+      {
+        "href": "//www.worldcat.org/issn/1531-2224",
+        "text": "1531-2224"
+      },
+      {
+        "href": "https://archive.org/details/seaotters0000vanb",
+        "text": "Sea Otters"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-89658-562-1",
+        "text": "978-0-89658-562-1"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+        "text": "OCLC"
+      },
+      {
+        "href": "//www.worldcat.org/oclc/46393741",
+        "text": "46393741"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-1632171375",
+        "text": "978-1632171375"
+      },
+      {
+        "href": "https://commons.wikimedia.org/wiki/Category:Enhydra_lutris",
+        "text": "Enhydra lutris(Sea otter)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikispecies",
+        "text": "Wikispecies"
+      },
+      {
+        "href": "https://species.wikimedia.org/wiki/Enhydra_lutris",
+        "text": "Enhydra lutris"
+      },
+      {
+        "href": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=180547",
+        "text": "Enhydra lutris (Linnaeus, 1758)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Integrated_Taxonomic_Information_System",
+        "text": "Integrated Taxonomic Information System"
+      },
+      {
+        "href": "http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=242598",
+        "text": "Enhydra lutris (Linnaeus, 1758)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/World_Register_of_Marine_Species",
+        "text": "World Register of Marine Species"
+      },
+      {
+        "href": "http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1019&amp;context=libraryscience",
+        "text": "De Bestiis Marinis, or, The Beasts of the Sea (1751)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Portable_Document_Format",
+        "text": "PDF"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Steller",
+        "text": "Georg Wilhelm Steller"
+      },
+      {
+        "href": "https://online.wr.usgs.gov/outreach/otter/",
+        "text": "Precipice of Survival: The Southern Sea Otter"
+      },
+      {
+        "href": "https://web.archive.org/web/20080422033215/http://online.wr.usgs.gov/outreach/otter/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wayback_Machine",
+        "text": "Wayback Machine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Adobe_Flash",
+        "text": "Adobe Flash"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/United_States_Geological_Survey",
+        "text": "United States Geological Survey"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Carnivora",
+        "text": "v"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template_talk:Carnivora",
+        "text": "t"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Carnivora",
+        "text": "Carnivora"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Animal",
+        "text": "Animalia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Chordate",
+        "text": "Chordata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mammal",
+        "text": "Mammalia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eutheria",
+        "text": "Eutheria"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Laurasiatheria",
+        "text": "Laurasiatheria"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Feliformia",
+        "text": "Feliformia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_palm_civet",
+        "text": "Nandiniidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_palm_civet",
+        "text": "Nandinia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_palm_civet",
+        "text": "African palm civet (N. binotata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mongoose",
+        "text": "Herpestidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marsh_mongoose",
+        "text": "Atilax"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marsh_mongoose",
+        "text": "Marsh mongoose (A. paludinosus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bdeogale",
+        "text": "Bdeogale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bushy-tailed_mongoose",
+        "text": "Bushy-tailed mongoose (B. crassicauda)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jackson%27s_mongoose",
+        "text": "Jackson's mongoose (B. jacksoni)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Black-footed_mongoose",
+        "text": "Black-footed mongoose (B. nigripes)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crossarchus",
+        "text": "Crossarchus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Alexander%27s_kusimanse",
+        "text": "Alexander's kusimanse (C. alexandri)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Angolan_kusimanse",
+        "text": "Angolan kusimanse (C. ansorgei)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Common_kusimanse",
+        "text": "Common kusimanse (C. obscurus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Flat-headed_kusimanse",
+        "text": "Flat-headed kusimanse (C. platycephalus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yellow_mongoose",
+        "text": "Cynictis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yellow_mongoose",
+        "text": "Yellow mongoose (C. penicillata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pousargues%27s_mongoose",
+        "text": "Dologale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pousargues%27s_mongoose",
+        "text": "Pousargues's mongoose (D. dybowskii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Helogale",
+        "text": "Helogale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ethiopian_dwarf_mongoose",
+        "text": "Ethiopian dwarf mongoose (H. hirtula)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Common_dwarf_mongoose",
+        "text": "Common dwarf mongoose (H. parvula)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Herpestes",
+        "text": "Herpestes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Angolan_slender_mongoose",
+        "text": "Angolan slender mongoose (H. flavescens)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Egyptian_mongoose",
+        "text": "Egyptian mongoose (H. ichneumon)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Somalian_slender_mongoose",
+        "text": "Somalian slender mongoose (H. ochracea)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cape_gray_mongoose",
+        "text": "Cape gray mongoose (H. pulverulenta)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Common_slender_mongoose",
+        "text": "Common slender mongoose (H. sanguinea)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/White-tailed_mongoose",
+        "text": "Ichneumia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/White-tailed_mongoose",
+        "text": "White-tailed mongoose (I. albicauda)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Liberian_mongoose",
+        "text": "Liberiictus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Liberian_mongoose",
+        "text": "Liberian mongoose (L. kuhni)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mungos",
+        "text": "Mungos"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gambian_mongoose",
+        "text": "Gambian mongoose (M. gambianus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Banded_mongoose",
+        "text": "Banded mongoose (M. mungo)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Selous%27s_mongoose",
+        "text": "Paracynictis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Selous%27s_mongoose",
+        "text": "Selous's mongoose (P. selousi)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meller%27s_mongoose",
+        "text": "Rhynchogale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meller%27s_mongoose",
+        "text": "Meller's mongoose (R. melleri)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meerkat",
+        "text": "Suricata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meerkat",
+        "text": "Meerkat (S. suricatta)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Urva_(genus)",
+        "text": "Urva"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Small_Indian_mongoose",
+        "text": "Small Indian mongoose (U. auropunctata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Short-tailed_mongoose",
+        "text": "Short-tailed mongoose (U. brachyura)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Indian_grey_mongoose",
+        "text": "Indian grey mongoose (U. edwardsii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Indian_brown_mongoose",
+        "text": "Indian brown mongoose (U. fusca)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Javan_mongoose",
+        "text": "Javan mongoose (U. javanica)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Collared_mongoose",
+        "text": "Collared mongoose (U. semitorquata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ruddy_mongoose",
+        "text": "Ruddy mongoose (U. smithii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crab-eating_mongoose",
+        "text": "Crab-eating mongoose (U. urva)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Stripe-necked_mongoose",
+        "text": "Stripe-necked mongoose (U. vitticolla)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Long-nosed_mongoose",
+        "text": "Xenogale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Long-nosed_mongoose",
+        "text": "Long-nosed mongoose (X. naso)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hyena",
+        "text": "Hyaenidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spotted_hyena",
+        "text": "Crocuta"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spotted_hyena",
+        "text": "Spotted hyena (C. crocuta)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Striped_hyena",
+        "text": "Hyaena"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Striped_hyena",
+        "text": "Striped hyena (H. hyaena)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Brown_hyena",
+        "text": "Parahyaena"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Brown_hyena",
+        "text": "Brown hyena (P. brunnea)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aardwolf",
+        "text": "Proteles"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aardwolf",
+        "text": "Aardwolf (P. cristata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Felidae",
+        "text": "Felidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Viverridae",
+        "text": "Viverridae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eupleridae",
+        "text": "Eupleridae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Felidae",
+        "text": "Felidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Felinae",
+        "text": "Felinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Acinonyx",
+        "text": "Acinonyx"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cheetah",
+        "text": "Cheetah (A. jubatus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Caracal_(genus)",
+        "text": "Caracal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_golden_cat",
+        "text": "African golden cat (C. aurata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Caracal",
+        "text": "Caracal (C. caracal)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Catopuma",
+        "text": "Catopuma"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bay_cat",
+        "text": "Bay cat (C. badia)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Asian_golden_cat",
+        "text": "Asian golden cat (C. temminckii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Felis",
+        "text": "Felis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Chinese_mountain_cat",
+        "text": "Chinese mountain cat (F. bieti)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cat",
+        "text": "Domestic cat (F. catus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jungle_cat",
+        "text": "Jungle cat (F. chaus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_wildcat",
+        "text": "African wildcat (F. lybica)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sand_cat",
+        "text": "Sand cat (F. margarita)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Black-footed_cat",
+        "text": "Black-footed cat (F. nigripes)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/European_wildcat",
+        "text": "European wildcat (F. silvestris)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jaguarundi",
+        "text": "Herpailurus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jaguarundi",
+        "text": "Jaguarundi (H. yagouaroundi)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Leopardus",
+        "text": "Leopardus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pampas_cat",
+        "text": "Pampas cat (L. colocola)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Geoffroy%27s_cat",
+        "text": "Geoffroy's cat (L. geoffroyi)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kodkod",
+        "text": "Kodkod (L. guigna)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Leopardus_guttulus",
+        "text": "Southern tiger cat (L. guttulus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Andean_mountain_cat",
+        "text": "Andean mountain cat (L. jacobita)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ocelot",
+        "text": "Ocelot (L. pardalis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oncilla",
+        "text": "Oncilla (L. tigrinus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Margay",
+        "text": "Margay (L. wiedii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Serval",
+        "text": "Leptailurus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Serval",
+        "text": "Serval (L. serval)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lynx",
+        "text": "Lynx"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Canada_lynx",
+        "text": "Canada lynx (L. canadensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eurasian_lynx",
+        "text": "Eurasian lynx (L. lynx)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Iberian_lynx",
+        "text": "Iberian lynx (L. pardinus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bobcat",
+        "text": "Bobcat (L. rufus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pallas%27s_cat",
+        "text": "Otocolobus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pallas%27s_cat",
+        "text": "Pallas's cat (O. manul)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pardofelis",
+        "text": "Pardofelis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marbled_cat",
+        "text": "Marbled cat (P. marmorata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Prionailurus",
+        "text": "Prionailurus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Leopard_cat",
+        "text": "Leopard cat (P. bengalensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sunda_leopard_cat",
+        "text": "Sunda leopard cat  (P. javanensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Flat-headed_cat",
+        "text": "Flat-headed cat (P. planiceps)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rusty-spotted_cat",
+        "text": "Rusty-spotted cat (P. rubiginosus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fishing_cat",
+        "text": "Fishing cat (P. viverrinus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Puma_(genus)",
+        "text": "Puma"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cougar",
+        "text": "Cougar (P. concolor)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pantherinae",
+        "text": "Pantherinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Panthera",
+        "text": "Panthera"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lion",
+        "text": "Lion (P. leo)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jaguar",
+        "text": "Jaguar (P. onca)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Leopard",
+        "text": "Leopard (P. pardus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tiger",
+        "text": "Tiger (P. tigris)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Snow_leopard",
+        "text": "Snow leopard (P. uncia)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Neofelis",
+        "text": "Neofelis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sunda_clouded_leopard",
+        "text": "Sunda clouded leopard (N. diardi)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Clouded_leopard",
+        "text": "Clouded leopard (N. nebulosa)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Asiatic_linsang",
+        "text": "Prionodontidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Asiatic_linsang",
+        "text": "Prionodon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Banded_linsang",
+        "text": "Banded linsang (P. linsang)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spotted_linsang",
+        "text": "Spotted linsang (P. pardicolor)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Viverridae",
+        "text": "Viverridae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Paradoxurinae",
+        "text": "Paradoxurinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Binturong",
+        "text": "Arctictis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Binturong",
+        "text": "Binturong (A. binturong)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Small-toothed_palm_civet",
+        "text": "Arctogalidia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Small-toothed_palm_civet",
+        "text": "Small-toothed palm civet (A. trivirgata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sulawesi_palm_civet",
+        "text": "Macrogalidia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sulawesi_palm_civet",
+        "text": "Sulawesi palm civet (M. musschenbroekii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Masked_palm_civet",
+        "text": "Paguma"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Masked_palm_civet",
+        "text": "Masked palm civet (P. larvata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Paradoxurus",
+        "text": "Paradoxurus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Asian_palm_civet",
+        "text": "Asian palm civet (P. hermaphroditus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Brown_palm_civet",
+        "text": "Brown palm civet (P. jerdoni)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Golden_palm_civet",
+        "text": "Golden palm civet (P. zeylonensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hemigalinae",
+        "text": "Hemigalinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Owston%27s_palm_civet",
+        "text": "Chrotogale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Owston%27s_palm_civet",
+        "text": "Owston's palm civet (C. owstoni)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otter_civet",
+        "text": "Cynogale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otter_civet",
+        "text": "Otter civet (C. bennettii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hose%27s_palm_civet",
+        "text": "Diplogale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hose%27s_palm_civet",
+        "text": "Hose's palm civet (D. hosei)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Banded_palm_civet",
+        "text": "Hemigalus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Banded_palm_civet",
+        "text": "Banded palm civet (H. derbyanus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Viverrinae",
+        "text": "Viverrinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_civet",
+        "text": "Civettictis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_civet",
+        "text": "African civet (C. civetta)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Viverra",
+        "text": "Viverra"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Malabar_large-spotted_civet",
+        "text": "Malabar large-spotted civet (V. civettina)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Large-spotted_civet",
+        "text": "Large-spotted civet (V. megaspila)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Malayan_civet",
+        "text": "Malayan civet (V. tangalunga)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Large_Indian_civet",
+        "text": "Large Indian civet (V. zibetha)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Small_Indian_civet",
+        "text": "Viverricula"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Small_Indian_civet",
+        "text": "Small Indian civet (V. indica)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Genettinae",
+        "text": "Genettinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Genet_(animal)",
+        "text": "Genetta"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abyssinian_genet",
+        "text": "Abyssinian genet (G. abyssinica)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Angolan_genet",
+        "text": "Angolan genet (G. angolensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bourlon%27s_genet",
+        "text": "Bourlon's genet (G. bourloni)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crested_servaline_genet",
+        "text": "Crested servaline genet (G. cristata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Common_genet",
+        "text": "Common genet (G. genetta)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Johnston%27s_genet",
+        "text": "Johnston's genet (G. johnstoni)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Letaba_genet",
+        "text": "Letaba genet (G. letabae)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rusty-spotted_genet",
+        "text": "Rusty-spotted genet (G. maculata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pardine_genet",
+        "text": "Pardine genet (G. pardina)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aquatic_genet",
+        "text": "Aquatic genet (G. piscivora)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/King_genet",
+        "text": "King genet (G. poensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Servaline_genet",
+        "text": "Servaline genet (G. servalina)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hausa_genet",
+        "text": "Hausa genet (G. thierryi)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cape_genet",
+        "text": "Cape genet (G. tigrina)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Giant_forest_genet",
+        "text": "Giant forest genet (G. victoriae)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Poiana_(genus)",
+        "text": "Poiana"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Central_African_oyan",
+        "text": "Central African oyan (P. richardsonii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/West_African_oyan",
+        "text": "West African oyan (P. leightoni)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eupleridae",
+        "text": "Eupleridae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Euplerinae",
+        "text": "Euplerinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fossa_(animal)",
+        "text": "Cryptoprocta"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fossa_(animal)",
+        "text": "Fossa (C. ferox)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eupleres",
+        "text": "Eupleres"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eastern_falanouc",
+        "text": "Eastern falanouc (E. goudotii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Western_falanouc",
+        "text": "Western falanouc (E. major)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Malagasy_civet",
+        "text": "Fossa"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Malagasy_civet",
+        "text": "Malagasy civet (F. fossana)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Galidiinae",
+        "text": "Galidiinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ring-tailed_vontsira",
+        "text": "Galidia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ring-tailed_vontsira",
+        "text": "Ring-tailed vontsira (G. elegans)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Galidictis",
+        "text": "Galidictis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Broad-striped_Malagasy_mongoose",
+        "text": "Broad-striped Malagasy mongoose (G. fasciata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Grandidier%27s_mongoose",
+        "text": "Grandidier's mongoose (G. grandidieri)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Narrow-striped_mongoose",
+        "text": "Mungotictis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Narrow-striped_mongoose",
+        "text": "Narrow-striped mongoose (M. decemlineata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Salanoia",
+        "text": "Salanoia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Brown-tailed_mongoose",
+        "text": "Brown-tailed mongoose (S. concolor)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Durrell%27s_vontsira",
+        "text": "Durrell's vontsira (S. durrelli)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Caniformia",
+        "text": "Caniformia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bear",
+        "text": "Ursidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ailuropoda",
+        "text": "Ailuropoda"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Giant_panda",
+        "text": "Giant panda (A. melanoleuca)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sun_bear",
+        "text": "Helarctos"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sun_bear",
+        "text": "Sun bear (H. malayanus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sloth_bear",
+        "text": "Melursus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sloth_bear",
+        "text": "Sloth bear (M. ursinus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spectacled_bear",
+        "text": "Tremarctos"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spectacled_bear",
+        "text": "Spectacled bear (T. ornatus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ursus_(mammal)",
+        "text": "Ursus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/American_black_bear",
+        "text": "American black bear (U. americanus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Brown_bear",
+        "text": "Brown bear (U. arctos)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Polar_bear",
+        "text": "Polar bear (U. maritimus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Asian_black_bear",
+        "text": "Asian black bear (U. thibetanus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mephitidae",
+        "text": "Mephitidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Skunk",
+        "text": "Skunks"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hog-nosed_skunk",
+        "text": "Conepatus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Molina%27s_hog-nosed_skunk",
+        "text": "Molina's hog-nosed skunk (C. chinga)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/American_hog-nosed_skunk",
+        "text": "American hog-nosed skunk (C. leuconotus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Striped_hog-nosed_skunk",
+        "text": "Striped hog-nosed skunk (C. semistriatus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mephitis_(genus)",
+        "text": "Mephitis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hooded_skunk",
+        "text": "Hooded skunk (M. macroura)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Striped_skunk",
+        "text": "Striped skunk (M. mephitis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Stink_badger",
+        "text": "Mydaus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sunda_stink_badger",
+        "text": "Sunda stink badger (M. javanensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Palawan_stink_badger",
+        "text": "Palawan stink badger (M. marchei)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spotted_skunk",
+        "text": "Spilogale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Southern_spotted_skunk",
+        "text": "Southern spotted skunk (S. angustifrons)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Western_spotted_skunk",
+        "text": "Western spotted skunk (S. gracilis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eastern_spotted_skunk",
+        "text": "Eastern spotted skunk (S. putorius)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pygmy_spotted_skunk",
+        "text": "Pygmy spotted skunk (S. pygmaea)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Procyonidae",
+        "text": "Procyonidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bassaricyon",
+        "text": "Bassaricyon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eastern_lowland_olingo",
+        "text": "Eastern lowland olingo (B. alleni)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Northern_olingo",
+        "text": "Northern olingo (B. gabbii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Western_lowland_olingo",
+        "text": "Western lowland olingo (B. medius)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Olinguito",
+        "text": "Olinguito (B. neblina)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bassariscus",
+        "text": "Bassariscus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ringtail",
+        "text": "Ringtail (B. astutus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cacomistle",
+        "text": "Cacomistle (B. sumichrasti)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nasua",
+        "text": "Nasua"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Coati",
+        "text": "Coatis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/White-nosed_coati",
+        "text": "White-nosed coati (N. narica)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/South_American_coati",
+        "text": "South American coati (N. nasua)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nasuella",
+        "text": "Nasuella"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Coati",
+        "text": "Coatis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nasuella_meridensis",
+        "text": "Eastern mountain coati (N. meridensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nasuella_olivacea",
+        "text": "Western mountain coati (N. olivacea)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kinkajou",
+        "text": "Potos"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kinkajou",
+        "text": "Kinkajou (P. flavus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Procyon_(genus)",
+        "text": "Procyon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crab-eating_raccoon",
+        "text": "Crab-eating raccoon (P. cancrivorus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Raccoon",
+        "text": "Raccoon (P. lotor)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cozumel_raccoon",
+        "text": "Cozumel raccoon (P. pygmaeus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ailuridae",
+        "text": "Ailuridae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Red_panda",
+        "text": "Ailurus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Red_panda",
+        "text": "Red panda (A. fulgens)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Caniformia",
+        "text": "Caniformia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eared_seal",
+        "text": "Otariidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fur_seal",
+        "text": "fur seals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_lion",
+        "text": "sea lions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pinniped",
+        "text": "Pinniped"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Arctocephalus",
+        "text": "Arctocephalus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/South_American_fur_seal",
+        "text": "South American fur seal (A. australis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Arctocephalus_forsteri",
+        "text": "Australasian fur seal (A. forsteri)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_fur_seal",
+        "text": "Galápagos fur seal (A. galapagoensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Antarctic_fur_seal",
+        "text": "Antarctic fur seal (A. gazella)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Juan_Fern%C3%A1ndez_fur_seal",
+        "text": "Juan Fernández fur seal (A. philippii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Brown_fur_seal",
+        "text": "Brown fur seal (A. pusillus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Guadalupe_fur_seal",
+        "text": "Guadalupe fur seal (A. townsendi)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Subantarctic_fur_seal",
+        "text": "Subantarctic fur seal (A. tropicalis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Northern_fur_seal",
+        "text": "Callorhinus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Northern_fur_seal",
+        "text": "Northern fur seal (C. ursinus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Steller_sea_lion",
+        "text": "Eumetopias"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Steller_sea_lion",
+        "text": "Steller sea lion (E. jubatus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Neophoca",
+        "text": "Neophoca"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Australian_sea_lion",
+        "text": "Australian sea lion (N. cinerea)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/South_American_sea_lion",
+        "text": "Otaria"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/South_American_sea_lion",
+        "text": "South American sea lion (O. flavescens)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/New_Zealand_sea_lion",
+        "text": "Phocarctos"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/New_Zealand_sea_lion",
+        "text": "New Zealand sea lion (P. hookeri)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Zalophus",
+        "text": "Zalophus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/California_sea_lion",
+        "text": "California sea lion (Z. californianus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_sea_lion",
+        "text": "Galápagos sea lion (Z. wollebaeki)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Walrus",
+        "text": "Odobenidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pinniped",
+        "text": "Pinniped"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Walrus",
+        "text": "Odobenus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Walrus",
+        "text": "Walrus (O. rosmarus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Earless_seal",
+        "text": "Phocidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pinniped",
+        "text": "Pinniped"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hooded_seal",
+        "text": "Cystophora"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hooded_seal",
+        "text": "Hooded seal (C. cristata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bearded_seal",
+        "text": "Erignathus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bearded_seal",
+        "text": "Bearded seal (E. barbatus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Grey_seal",
+        "text": "Halichoerus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Grey_seal",
+        "text": "Grey seal (H. grypus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ribbon_seal",
+        "text": "Histriophoca"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ribbon_seal",
+        "text": "Ribbon seal (H. fasciata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Leopard_seal",
+        "text": "Hydrurga"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Leopard_seal",
+        "text": "Leopard seal (H. leptonyx)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Weddell_seal",
+        "text": "Leptonychotes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Weddell_seal",
+        "text": "Weddell seal (L. weddellii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crabeater_seal",
+        "text": "Lobodon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crabeater_seal",
+        "text": "Crabeater seal (L. carcinophagus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Elephant_seal",
+        "text": "Mirounga"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Northern_elephant_seal",
+        "text": "Northern elephant seal (M. angustirostris)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Southern_elephant_seal",
+        "text": "Southern elephant seal (M. leonina)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Monk_seal",
+        "text": "Monachus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mediterranean_monk_seal",
+        "text": "Mediterranean monk seal (M. monachus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Neomonachus",
+        "text": "Neomonachus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hawaiian_monk_seal",
+        "text": "Hawaiian monk seal (N. schauinslandi)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ross_seal",
+        "text": "Ommatophoca"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ross_seal",
+        "text": "Ross seal (O. rossi)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Harp_seal",
+        "text": "Pagophilus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Harp_seal",
+        "text": "Harp seal (P. groenlandicus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Phoca",
+        "text": "Phoca"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spotted_seal",
+        "text": "Spotted seal (P. largha)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Harbor_seal",
+        "text": "Harbor seal (P. vitulina)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pusa",
+        "text": "Pusa"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Caspian_seal",
+        "text": "Caspian seal (P. caspica)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ringed_seal",
+        "text": "Ringed seal (P. hispida)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Baikal_seal",
+        "text": "Baikal seal (P. sibirica)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Canidae",
+        "text": "Canidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mustelidae",
+        "text": "Mustelidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Canidae",
+        "text": "Canidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dog",
+        "text": "dogs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Short-eared_dog",
+        "text": "Atelocynus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Short-eared_dog",
+        "text": "Short-eared dog (A. microtis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Canis",
+        "text": "Canis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Golden_jackal",
+        "text": "Golden jackal (C. aureus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dog",
+        "text": "Domestic dog (C. familiaris)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Coyote",
+        "text": "Coyote (C. latrans)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_wolf",
+        "text": "African wolf (C. lupaster)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wolf",
+        "text": "Wolf (C. lupus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eastern_wolf",
+        "text": "Eastern wolf (C. lycaon)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Red_wolf",
+        "text": "Red wolf (C. rufus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ethiopian_wolf",
+        "text": "Ethiopian wolf (C. simensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crab-eating_fox",
+        "text": "Cerdocyon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crab-eating_fox",
+        "text": "Crab-eating fox (C. thous)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Maned_wolf",
+        "text": "Chrysocyon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Maned_wolf",
+        "text": "Maned wolf (C. brachyurus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dhole",
+        "text": "Cuon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dhole",
+        "text": "Dhole (C. alpinus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lupulella",
+        "text": "Lupulella"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Side-striped_jackal",
+        "text": "Side-striped jackal (L. adustus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Black-backed_jackal",
+        "text": "Black-backed jackal (L. mesomelas)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/South_American_fox",
+        "text": "Lycalopex"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Culpeo",
+        "text": "Culpeo (L. culpaeus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Darwin%27s_fox",
+        "text": "Darwin's fox (L. fulvipes)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/South_American_gray_fox",
+        "text": "South American gray fox (L. griseus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pampas_fox",
+        "text": "Pampas fox (L. gymnocercus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sechuran_fox",
+        "text": "Sechuran fox (L. sechurae)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hoary_fox",
+        "text": "Hoary fox (L. vetulus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_wild_dog",
+        "text": "Lycaon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_wild_dog",
+        "text": "African wild dog (L. pictus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nyctereutes",
+        "text": "Nyctereutes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Common_raccoon_dog",
+        "text": "Common raccoon dog (N. procyonoides)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanese_raccoon_dog",
+        "text": "Japanese raccoon dog (N. viverrinus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bat-eared_fox",
+        "text": "Otocyon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bat-eared_fox",
+        "text": "Bat-eared fox (O. megalotis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Speothos",
+        "text": "Speothos"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bush_dog",
+        "text": "Bush dog (S. venaticus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Urocyon",
+        "text": "Urocyon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gray_fox",
+        "text": "Gray fox (U. cinereoargenteus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Island_fox",
+        "text": "Island fox (U. littoralis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vulpes",
+        "text": "Vulpes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fox",
+        "text": "Foxes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bengal_fox",
+        "text": "Bengal fox (V. bengalensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Blanford%27s_fox",
+        "text": "Blanford's fox (V. cana)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cape_fox",
+        "text": "Cape fox (V. chama)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Corsac_fox",
+        "text": "Corsac fox (V. corsac)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tibetan_fox",
+        "text": "Tibetan fox (V. ferrilata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Arctic_fox",
+        "text": "Arctic fox (V. lagopus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kit_fox",
+        "text": "Kit fox (V. macrotis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pale_fox",
+        "text": "Pale fox (V. pallida)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/R%C3%BCppell%27s_fox",
+        "text": "Rüppell's fox (V. rueppelli)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Swift_fox",
+        "text": "Swift fox (V. velox)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Red_fox",
+        "text": "Red fox (V. vulpes)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fennec_fox",
+        "text": "Fennec fox (V. zerda)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mustelidae",
+        "text": "Mustelidae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ferret-badger",
+        "text": "Helictidinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ferret-badger",
+        "text": "Melogale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bornean_ferret_badger",
+        "text": "Bornean ferret badger (M. everetti)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Chinese_ferret-badger",
+        "text": "Chinese ferret-badger (M. moschata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Javan_ferret-badger",
+        "text": "Javan ferret-badger (M. orientalis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Burmese_ferret-badger",
+        "text": "Burmese ferret-badger (M. personata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vietnam_ferret-badger",
+        "text": "Vietnam ferret-badger (M. cucphuongensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Guloninae",
+        "text": "Guloninae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tayra",
+        "text": "Eira"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tayra",
+        "text": "Tayra (E. barbara)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wolverine",
+        "text": "Gulo"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wolverine",
+        "text": "Wolverine (G. gulo)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marten",
+        "text": "Martes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/American_marten",
+        "text": "American marten (M. americana)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pacific_marten",
+        "text": "Pacific marten (M. caurina)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yellow-throated_marten",
+        "text": "Yellow-throated marten (M. flavigula)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Beech_marten",
+        "text": "Beech marten (M. foina)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nilgiri_marten",
+        "text": "Nilgiri marten (M. gwatkinsii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/European_pine_marten",
+        "text": "European pine marten (M. martes)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanese_marten",
+        "text": "Japanese marten (M. melampus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sable",
+        "text": "Sable (M. zibellina)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pekania",
+        "text": "Pekania"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fisher_(animal)",
+        "text": "Fisher (P. pennanti)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ictonychinae",
+        "text": "Ictonychinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Galictis",
+        "text": "Galictis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lesser_grison",
+        "text": "Lesser grison (G. cuja)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Greater_grison",
+        "text": "Greater grison (G. vittata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ictonyx",
+        "text": "Ictonyx"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Saharan_striped_polecat",
+        "text": "Saharan striped polecat (I. libyca)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Striped_polecat",
+        "text": "Striped polecat (I. striatus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Patagonian_weasel",
+        "text": "Lyncodon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Patagonian_weasel",
+        "text": "Patagonian weasel (L. patagonicus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_striped_weasel",
+        "text": "Poecilogale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_striped_weasel",
+        "text": "African striped weasel (P. albinucha)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marbled_polecat",
+        "text": "Vormela"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marbled_polecat",
+        "text": "Marbled polecat (V. peregusna)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otter",
+        "text": "Lutrinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aonyx",
+        "text": "Aonyx"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/African_clawless_otter",
+        "text": "African clawless otter (A. capensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Asian_small-clawed_otter",
+        "text": "Asian small-clawed otter (A. cinereus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Congo_clawless_otter",
+        "text": "Congo clawless otter (A. congicus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spotted-necked_otter",
+        "text": "Hydrictis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spotted-necked_otter",
+        "text": "Spotted-necked otter (H. maculicollis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lontra",
+        "text": "Lontra"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/North_American_river_otter",
+        "text": "North American river otter (L. canadensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marine_otter",
+        "text": "Marine otter (L. felina)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Neotropical_otter",
+        "text": "Neotropical otter (L. longicaudis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Southern_river_otter",
+        "text": "Southern river otter (L. provocax)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lutra",
+        "text": "Lutra"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eurasian_otter",
+        "text": "Eurasian otter (L. lutra)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hairy-nosed_otter",
+        "text": "Hairy-nosed otter (L. sumatrana)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lutrogale",
+        "text": "Lutrogale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Smooth-coated_otter",
+        "text": "Smooth-coated otter (L. perspicillata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Giant_otter",
+        "text": "Pteronura"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Giant_otter",
+        "text": "Giant otter (P. brasiliensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Badger",
+        "text": "Melinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hog_badger",
+        "text": "Arctonyx"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Northern_hog_badger",
+        "text": "Northern hog badger (A. albogularis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Greater_hog_badger",
+        "text": "Greater hog badger (A. collaris)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sumatran_hog_badger",
+        "text": "Sumatran hog badger (A. hoevenii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meles_(genus)",
+        "text": "Meles"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanese_badger",
+        "text": "Japanese badger (M. anakuma)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Caucasian_badger",
+        "text": "Caucasian badger (M. canescens)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Asian_badger",
+        "text": "Asian badger (M. leucurus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/European_badger",
+        "text": "European badger (M. meles)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Honey_badger",
+        "text": "Mellivorinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Honey_badger",
+        "text": "Mellivora"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Honey_badger",
+        "text": "Honey badger (M. capensis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mustelinae",
+        "text": "Mustelinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Weasel",
+        "text": "Mustela"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Weasel",
+        "text": "Weasels"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ferret",
+        "text": "ferrets"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mustela_aistoodonnivalis",
+        "text": "Sichuan weasel (M. aistoodonnivalis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mountain_weasel",
+        "text": "Mountain weasel (M. altaica)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Stoat",
+        "text": "Stoat/Beringian ermine (M. erminea)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Steppe_polecat",
+        "text": "Steppe polecat (M. eversmannii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ferret",
+        "text": "Ferret (M. furo)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Haida_ermine",
+        "text": "Haida ermine (M. haidarum)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanese_weasel",
+        "text": "Japanese weasel (M. itatsi)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yellow-bellied_weasel",
+        "text": "Yellow-bellied weasel (M. kathiah)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/European_mink",
+        "text": "European mink (M. lutreola)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Indonesian_mountain_weasel",
+        "text": "Indonesian mountain weasel (M. lutreolina)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Black-footed_ferret",
+        "text": "Black-footed ferret (M. nigripes)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Least_weasel",
+        "text": "Least weasel (M. nivalis)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Malayan_weasel",
+        "text": "Malayan weasel (M. nudipes)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/European_polecat",
+        "text": "European polecat (M. putorius)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/American_ermine",
+        "text": "American ermine (M. richardsonii)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Siberian_weasel",
+        "text": "Siberian weasel (M. sibirica)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Back-striped_weasel",
+        "text": "Back-striped weasel (M. strigidorsa)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Neogale",
+        "text": "Neogale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Amazon_weasel",
+        "text": "Amazon weasel (N. africana)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Colombian_weasel",
+        "text": "Colombian weasel (N. felipei)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Long-tailed_weasel",
+        "text": "Long-tailed weasel (N. frenata)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/American_mink",
+        "text": "American mink (N. vison)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/American_badger",
+        "text": "Taxidiinae"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/American_badger",
+        "text": "Taxidea"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/American_badger",
+        "text": "American badger (T. taxus)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals",
+        "text": "Portals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Portal:Marine_life",
+        "text": "Marine life"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Okapi2.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Portal:Mammals",
+        "text": "Mammals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Wapiti_from_Wagon_Trails.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Portal:Animals",
+        "text": "Animals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Issoria_lathonia.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Portal:Biology",
+        "text": "Biology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Taxon_identifiers",
+        "text": "Taxon identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikidata",
+        "text": "Wikidata"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Q41407",
+        "text": "Q41407"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikispecies",
+        "text": "Wikispecies"
+      },
+      {
+        "href": "https://species.wikimedia.org/wiki/Enhydra_lutris",
+        "text": "Enhydra lutris"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Animal_Diversity_Web",
+        "text": "ADW"
+      },
+      {
+        "href": "https://animaldiversity.org/accounts/Enhydra_lutris/",
+        "text": "Enhydra_lutris"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ARKive",
+        "text": "ARKive"
+      },
+      {
+        "href": "https://web.archive.org/web/*/www.arkive.org/wd/enhydra-lutris/",
+        "text": "enhydra-lutris"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Barcode_of_Life_Data_System",
+        "text": "BOLD"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Catalogue_of_Life",
+        "text": "CoL"
+      },
+      {
+        "href": "https://www.catalogueoflife.org/data/taxon/39TWB",
+        "text": "39TWB"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Encyclopedia_of_Life",
+        "text": "EoL"
+      },
+      {
+        "href": "https://eol.org/pages/46559130",
+        "text": "46559130"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/European_Nature_Information_System",
+        "text": "EUNIS"
+      },
+      {
+        "href": "https://eunis.eea.europa.eu/species/17297",
+        "text": "17297"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fossilworks",
+        "text": "Fossilworks"
+      },
+      {
+        "href": "http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&amp;taxon_no=46078",
+        "text": "46078"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Global_Biodiversity_Information_Facility",
+        "text": "GBIF"
+      },
+      {
+        "href": "https://www.gbif.org/species/2433670",
+        "text": "2433670"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/INaturalist",
+        "text": "iNaturalist"
+      },
+      {
+        "href": "https://www.inaturalist.org/taxa/41860",
+        "text": "41860"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera",
+        "text": "IRMNG"
+      },
+      {
+        "href": "https://www.irmng.org/aphia.php?p=taxdetails&amp;id=10198728",
+        "text": "10198728"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Integrated_Taxonomic_Information_System",
+        "text": "ITIS"
+      },
+      {
+        "href": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=180547",
+        "text": "180547"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/IUCN_Red_List",
+        "text": "IUCN"
+      },
+      {
+        "href": "https://apiv3.iucnredlist.org/api/v3/taxonredirect/7750",
+        "text": "7750"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mammal_Species_of_the_World",
+        "text": "MSW"
+      },
+      {
+        "href": "https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?s=y&amp;id=14001090",
+        "text": "14001090"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/NatureServe",
+        "text": "NatureServe"
+      },
+      {
+        "href": "https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.102244/",
+        "text": "2.102244"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/National_Center_for_Biotechnology_Information",
+        "text": "NCBI"
+      },
+      {
+        "href": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=34882",
+        "text": "34882"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/SeaLifeBase",
+        "text": "SeaLifeBase"
+      },
+      {
+        "href": "https://www.sealifebase.ca/Summary/SpeciesSummary.php?id=69195",
+        "text": "69195"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/CITES",
+        "text": "Species+"
+      },
+      {
+        "href": "https://speciesplus.net/#/taxon_concepts/7275/legal",
+        "text": "7275"
+      },
+      {
+        "href": "https://de.wikipedia.org/wiki/Tierstimmenarchiv",
+        "text": "TSA"
+      },
+      {
+        "href": "http://www.tierstimmen.org/en/database?field_spec_species_target_id_selective=6496",
+        "text": "6496"
+      },
+      {
+        "href": "http://www.ubio.org/browser/details.php?namebankID=105591",
+        "text": "105591"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/World_Register_of_Marine_Species",
+        "text": "WoRMS"
+      },
+      {
+        "href": "https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=242598",
+        "text": "242598"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikidata",
+        "text": "Wikidata"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Q109646717",
+        "text": "Q109646717"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Catalogue_of_Life",
+        "text": "CoL"
+      },
+      {
+        "href": "https://www.catalogueoflife.org/data/taxon/44QXM",
+        "text": "44QXM"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Global_Biodiversity_Information_Facility",
+        "text": "GBIF"
+      },
+      {
+        "href": "https://www.gbif.org/species/5218825",
+        "text": "5218825"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Integrated_Taxonomic_Information_System",
+        "text": "ITIS"
+      },
+      {
+        "href": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=203540",
+        "text": "203540"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Authority_control",
+        "text": "Authority control"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Q41407#identifiers",
+        "text": ""
+      },
+      {
+        "href": "https://catalogue.bnf.fr/ark:/12148/cb12232258r",
+        "text": "France"
+      },
+      {
+        "href": "https://data.bnf.fr/ark:/12148/cb12232258r",
+        "text": "(data)"
+      },
+      {
+        "href": "https://d-nb.info/gnd/4169258-5",
+        "text": "Germany"
+      },
+      {
+        "href": "http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007565753705171",
+        "text": "Israel"
+      },
+      {
+        "href": "https://id.loc.gov/authorities/subjects/sh85119235",
+        "text": "United States"
+      },
+      {
+        "href": "https://id.ndl.go.jp/auth/ndlna/00569259",
+        "text": "Japan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Category",
+        "text": "Categories"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:IUCN_Red_List_endangered_species",
+        "text": "IUCN Red List endangered species"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Carnivorans_of_Asia",
+        "text": "Carnivorans of Asia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Carnivorans_of_North_America",
+        "text": "Carnivorans of North America"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Endangered_biota_of_Asia",
+        "text": "Endangered biota of Asia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Endangered_fauna_of_California",
+        "text": "Endangered fauna of California"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Endangered_fauna_of_North_America",
+        "text": "Endangered fauna of North America"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Endangered_fauna_of_the_United_States",
+        "text": "Endangered fauna of the United States"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Extant_Pleistocene_first_appearances",
+        "text": "Extant Pleistocene first appearances"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Fauna_of_California",
+        "text": "Fauna of California"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Fauna_of_the_Aleutian_Islands",
+        "text": "Fauna of the Aleutian Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Fauna_of_the_Pacific_Ocean",
+        "text": "Fauna of the Pacific Ocean"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Fur_trade",
+        "text": "Fur trade"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Kuril_Islands",
+        "text": "Kuril Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Mammals_described_in_1758",
+        "text": "Mammals described in 1758"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Mammals_of_Canada",
+        "text": "Mammals of Canada"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Mammals_of_Russia",
+        "text": "Mammals of Russia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Mammals_of_Mexico",
+        "text": "Mammals of Mexico"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Mammals_of_Japan",
+        "text": "Mammals of Japan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Mammals_of_the_United_States",
+        "text": "Mammals of the United States"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Marine_mammals",
+        "text": "Marine mammals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Otters",
+        "text": "Otters"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Pleistocene_animals_of_North_America",
+        "text": "Pleistocene animals of North America"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Pleistocene_carnivorans",
+        "text": "Pleistocene carnivorans"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Quaternary_mammals_of_Asia",
+        "text": "Quaternary mammals of Asia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Quaternary_mammals_of_North_America",
+        "text": "Quaternary mammals of North America"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Taxa_named_by_Carl_Linnaeus",
+        "text": "Taxa named by Carl Linnaeus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Tool-using_mammals",
+        "text": "Tool-using mammals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Western_North_American_coastal_fauna",
+        "text": "Western North American coastal fauna"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Semiaquatic_mammals",
+        "text": "Semiaquatic mammals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Holarctic_fauna",
+        "text": "Holarctic fauna"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+        "text": "Webarchive template wayback links"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+        "text": "Articles with short description"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+        "text": "Short description is different from Wikidata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Wikipedia_indefinitely_move-protected_pages",
+        "text": "Wikipedia indefinitely move-protected pages"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Featured_articles",
+        "text": "Featured articles"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_August_2022",
+        "text": "Use dmy dates from August 2022"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_%27species%27_microformats",
+        "text": "Articles with 'species' microformats"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:All_accuracy_disputes",
+        "text": "All accuracy disputes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_disputed_statements_from_March_2021",
+        "text": "Articles with disputed statements from March 2021"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_containing_potentially_dated_statements_from_July_2022",
+        "text": "Articles containing potentially dated statements from July 2022"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:All_articles_containing_potentially_dated_statements",
+        "text": "All articles containing potentially dated statements"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata",
+        "text": "Commons category link is on Wikidata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Taxonbars_with_automatically_added_original_combinations",
+        "text": "Taxonbars with automatically added original combinations"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Taxonbars_with_20%E2%80%9324_taxon_IDs",
+        "text": "Taxonbars with 20–24 taxon IDs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_BNF_identifiers",
+        "text": "Articles with BNF identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_GND_identifiers",
+        "text": "Articles with GND identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_J9U_identifiers",
+        "text": "Articles with J9U identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_LCCN_identifiers",
+        "text": "Articles with LCCN identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_NDL_identifiers",
+        "text": "Articles with NDL identifiers"
+      }
+    ],
+    "text": "the sea otter inhabits nearshore environments, where it dives to the sea floor to forage. it preys mostly on marine invertebrates such as sea urchins, various mollusks and crustaceans, and some species of fish. its foraging and eating habits are noteworthy in several respects. its use of rocks to dislodge prey and to open shells makes it one of the few mammal species to use tools. in most of its range, it is a keystone species, controlling sea urchin populations which would otherwise inflict extensive damage to kelp forestecosystems.&#91;3&#93; its diet includes prey species that are also valued by humans as food, leading to conflicts between sea otters and fisheries.\nan adult's 32 teeth, particularly the molars, are flattened and rounded for crushing rather than cutting food.&#91;51&#93;seals and sea otters are the only carnivores with two pairs of lower incisor teeth rather than three;&#91;52&#93; the adult dental formula is 3.1.3.12.1.3.2.&#91;53&#93; the teeth and bones are sometimes stained purple as a result of ingesting sea urchins.&#91;54&#93;\nthe sea otter has a metabolic rate two or three times that of comparatively sized terrestrial mammals. it must eat an estimated 25 to 38% of its own body weight in food each day to burn the calories necessary to counteract the loss of heat due to the cold water environment.&#91;55&#93;&#91;56&#93; its digestive efficiency is estimated at 80 to 85%,&#91;57&#93; and food is digested and passed in as little as three hours.&#91;28&#93; most of its need for water is met through food, although, in contrast to most other marine mammals, it also drinks seawater. its relatively large kidneys enable it to derive fresh water from sea water and excrete concentrated urine.&#91;58&#93;the sea otter is diurnal. it has a period of foraging and eating in the morning, starting about an hour before sunrise, then rests or sleeps in mid-day.&#91;59&#93; foraging resumes for a few hours in the afternoon and subsides before sunset, and a third foraging period may occur around midnight.&#91;59&#93; females with pups appear to be more inclined to feed at night.&#91;59&#93; observations of the amount of time a sea otter must spend each day foraging range from 24 to 60%, apparently depending on the availability of food in the area.&#91;60&#93;sea otters spend much of their time grooming, which consists of cleaning the fur, untangling knots, removing loose fur, rubbing the fur to squeeze out water and introduce air, and blowing air into the fur. to casual observers, it appears as if the animals are scratching, but they are not known to have lice or other parasites in the fur.&#91;61&#93; when eating, sea otters roll in the water frequently, apparently to wash food scraps from their fur.&#91;62&#93;under each foreleg, the sea otter has a loose pouch of skin that extends across the chest. in this pouch (preferentially the left one), the animal stores collected food to bring to the surface. this pouch also holds a rock, unique to the otter, that is used to break open shellfish and clams.&#91;63&#93; at the surface, the sea otter eats while floating on its back, using its forepaws to tear food apart and bring it to its mouth. it can chew and swallow small mussels with their shells, whereas large mussel shells may be twisted apart.&#91;64&#93; it uses its lower incisor teeth to access the meat in shellfish.&#91;65&#93;\nto eat large sea urchins, which are mostly covered with spines, the sea otter bites through the underside where the spines are shortest, and licks the soft contents out of the urchin's shell.&#91;64&#93;nursing lasts six to eight months in californian populations and four to twelve months in alaska, with the mother beginning to offer bits of prey at one to two months.&#91;82&#93; the milk from a sea otter's two abdominal nipples is rich in fat and more similar to the milk of other marine mammals than to that of other mustelids.&#91;83&#93; a pup, with guidance from its mother, practices swimming and diving for several weeks before it is able to reach the sea floor. initially, the objects it retrieves are of little food value, such as brightly colored starfish and pebbles.&#91;63&#93; juveniles are typically independent at six to eight months, but a mother may be forced to abandon a pup if she cannot find enough food for it;&#91;84&#93; at the other extreme, a pup may nurse until it is almost adult size.&#91;78&#93; pup mortality is high, particularly during an individual's first winter&#160;– by one estimate, only 25% of pups survive their first year.&#91;84&#93; pups born to experienced mothers have the highest survival rates.&#91;85&#93;in a few northern areas, fish are also eaten. in studies performed at amchitka island in the 1960s, where the sea otter population was at carrying capacity, 50% of food found in sea otter stomachs was fish.&#91;151&#93; the fish species were usually bottom-dwelling and sedentary or sluggish forms, such as hemilepidotus hemilepidotus and family tetraodontidae.&#91;151&#93; however, south of alaska on the north american coast, fish are a negligible or extremely minor part of the sea otter's diet.&#91;18&#93;&#91;152&#93; contrary to popular depictions, sea otters rarely eat starfish, and any kelp that is consumed apparently passes through the sea otter's system undigested.&#91;153&#93;the individuals within a particular area often differ in their foraging methods and prey types, and tend to follow the same patterns as their mothers.&#91;154&#93; the diet of local populations also changes over time, as sea otters can significantly deplete populations of highly preferred prey such as large sea urchins, and prey availability is also affected by other factors such as fishing by humans.&#91;18&#93; sea otters can thoroughly remove abalone from an area except for specimens in deep rock crevices,&#91;155&#93; however, they never completely wipe out a prey species from an area.&#91;156&#93; a 2007 californian study demonstrated, in areas where food was relatively scarce, a wider variety of prey was consumed. surprisingly, though, the diets of individuals were more specialized in these areas than in areas where food was plentiful.&#91;125&#93;sea otters have the thickest fur of any mammal, which makes them a common target for many hunters. archaeological evidence indicates that for thousands of years, indigenous peoples have hunted sea otters for food and fur. large-scale hunting, part of the maritime fur trade, which would eventually kill approximately one million sea otters, began in the 18th century when hunters and traders began to arrive from all over the world to meet foreign demand for otter pelts, which were one of the world's most valuable types of fur.&#91;21&#93;some of the sea otter's preferred prey species, particularly abalone, clams, and crabs, are also food sources for humans. in some areas, massive declines in shellfish harvests have been blamed on the sea otter, and intense public debate has taken place over how to manage the competition between sea otters and humans for seafood.&#91;188&#93;many facets of the interaction between sea otters and the human economy are not as immediately felt. sea otters have been credited with contributing to the kelp harvesting industry via their well-known role in controlling sea urchin populations; kelp is used in the production of diverse food and pharmaceutical products.&#91;190&#93; although human divers harvest red sea urchins both for food and to protect the kelp, sea otters hunt more sea urchin species and are more consistently effective in controlling these populations.&#91;191&#93;e. lutris is a controlling predator of the red king crab (paralithodes camtschaticus) in the bering sea, which would otherwise be out of control as it is in its invasive range, the barents sea.&#91;192&#93; (berents otters, lutra lutra, occupy the same ecological niche and so are believed to help to control them in the berents but this has not been studied.)&#91;192&#93; the health of the kelp forest ecosystem is significant in nurturing populations of fish, including commercially important fish species.&#91;190&#93; in some areas, sea otters are popular tourist attractions, bringing visitors to local hotels, restaurants, and sea otter-watching expeditions.&#91;190&#93;",
+    "imageNames": [
+      "20px-Cscr-featured.svg.png",
+      "220px-Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg",
+      "220px-Status_iucn3.1_EN.svg.png",
+      "Red_Pencil_Icon.png",
+      "220px-Seaotterrocks.jpg",
+      "220px-Enhydra_lutris_skull_-_MUSE.JPG",
+      "220px-MSU_V2P1b_-_Enhydra_lutris_skull.png",
+      "220px-Sea_otter_with_sea_urchin.jpg",
+      "220px-Sea_otters_holding_hands%2C_cropped.jpg",
+      "220px-Sea_otter_with_injured_nose.JPG",
+      "220px-Sea_otter_nursing02.jpg",
+      "220px-CalifCentralCoast.jpg",
+      "170px-Kelp-forest-Monterey.jpg",
+      "170px-Sea_otter_hunters_1896.jpg",
+      "220px-London_Sea_Otter_pelt_sales_1871-1910.svg.png",
+      "220px-OilSheenFromValdezSpill.jpg",
+      "220px-Sea_otter_pair2.jpg",
+      "60px-AleutKalan1.jpg",
+      "600px-AleutKalan2.jpg",
+      "30px-Commons-logo.svg.png",
+      "34px-Wikispecies-logo.svg.png",
+      "21px-Yellow.tang.arp.jpg",
+      "21px-Okapi2.jpg",
+      "21px-Wapiti_from_Wagon_Trails.jpg",
+      "21px-Issoria_lathonia.jpg",
+      "10px-OOjs_UI_icon_edit-ltr-progressive.svg.png"
+    ]
+  }
+}
